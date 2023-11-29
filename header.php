@@ -17,10 +17,10 @@
             <a class="nav-link" href="service.php">Service</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="blog.php">CONSULTANT</a>
+            <a class="nav-link" href="consultant.php">CONSULTANT</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="blog-ma.php">M&A</a>
+            <a class="nav-link" href="blog.php">M&A</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="contact.php">Contact</a>

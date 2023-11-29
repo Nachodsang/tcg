@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
- <title>Package</title>
-  <link href="images/logo/logo-ico.ico" rel="icon">
+  <title>Tokyo Consulting Group</title>
+  <link href="images/logo/TCGicon.ico" rel="icon">
   <link rel="canonical" href="https://www.at-once.info">
   <link href="css/bootstrap.css" rel="stylesheet">
   <link href="css/style.css" rel="stylesheet">

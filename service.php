@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Package</title>
-  <link href="images/logo/logo-ico.ico" rel="icon">
+ <title>Tokyo Consulting Group</title>
+   <link href="images/logo/TCGicon.ico" rel="icon">
   <link rel="canonical" href="https://www.at-once.info">
   <link href="css/bootstrap.css" rel="stylesheet">
   <link href="css/style.css" rel="stylesheet">
@@ -41,7 +41,7 @@
                   inventory_2
                 </span>
               </div>
-              <h3 class="mb-3">Service01</h3>
+              <h3 class="mb-3">Business Setup</h3>
               <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
               diam sed stet lorem.</p>
               <a class="btn px-3 mt-auto mx-auto" href="service-details.php">Read More</a>
@@ -55,7 +55,7 @@
                 potted_plant
               </span>
             </div>
-            <h3 class="mb-3">Service02</h3>
+            <h3 class="mb-3">Tax Services</h3>
             <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
             diam sed stet lorem.</p>
             <a class="btn px-3 mt-auto mx-auto" href="service-details.php">Read More</a>
@@ -69,7 +69,7 @@
                 wind_power
               </span>
             </div>
-            <h3 class="mb-3">Service03</h3>
+            <h3 class="mb-3">Accounting Services</h3>
             <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
             diam sed stet lorem.</p>
             <a class="btn px-3 mt-auto mx-auto" href="service-details.php">Read More</a>
@@ -83,7 +83,7 @@
                 sign_language
               </span>
             </div>
-            <h3 class="mb-3">Service04</h3>
+            <h3 class="mb-3">Internal Audit</h3>
             <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
             diam sed stet lorem.</p>
             <a class="btn px-3 mt-auto mx-auto" href="service-details.php">Read More</a>
@@ -98,7 +98,7 @@
               key
             </span>
           </div>
-          <h3 class="mb-3">Service05</h3>
+          <h3 class="mb-3">Financial Audit</h3>
           <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
           diam sed stet lorem.</p>
           <a class="btn px-3 mt-auto mx-auto" href="service-details.php">Read More</a>
@@ -113,7 +113,59 @@
               deployed_code
             </span>
           </div>
-          <h3 class="mb-3">Service06</h3>
+          <h3 class="mb-3">Payroll Services</h3>
+          <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
+          diam sed stet lorem.</p>
+          <a class="btn px-3 mt-auto mx-auto" href="service-details.php">Read More</a>
+        </div>
+      </div>
+      <div class="col-md-4 wow fadeIn" data-wow-delay="0.7s">
+        <div class="service-item d-flex flex-column justify-content-center text-center rounded">
+          <div class="service-icon btn-square">
+            <span class="material-symbols-outlined">
+              deployed_code
+            </span>
+          </div>
+          <h3 class="mb-3">Human Resources</h3>
+          <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
+          diam sed stet lorem.</p>
+          <a class="btn px-3 mt-auto mx-auto" href="service-details.php">Read More</a>
+        </div>
+      </div>
+      <div class="col-md-4 wow fadeIn" data-wow-delay="0.7s">
+        <div class="service-item d-flex flex-column justify-content-center text-center rounded">
+          <div class="service-icon btn-square">
+            <span class="material-symbols-outlined">
+              deployed_code
+            </span>
+          </div>
+          <h3 class="mb-3">Social Insurance</h3>
+          <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
+          diam sed stet lorem.</p>
+          <a class="btn px-3 mt-auto mx-auto" href="service-details.php">Read More</a>
+        </div>
+      </div>
+      <div class="col-md-4 wow fadeIn" data-wow-delay="0.7s">
+        <div class="service-item d-flex flex-column justify-content-center text-center rounded">
+          <div class="service-icon btn-square">
+            <span class="material-symbols-outlined">
+              deployed_code
+            </span>
+          </div>
+          <h3 class="mb-3">Mergers and Aquisations</h3>
+          <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
+          diam sed stet lorem.</p>
+          <a class="btn px-3 mt-auto mx-auto" href="service-details.php">Read More</a>
+        </div>
+      </div>
+      <div class="col-md-4 wow fadeIn" data-wow-delay="0.7s">
+        <div class="service-item d-flex flex-column justify-content-center text-center rounded">
+          <div class="service-icon btn-square">
+            <span class="material-symbols-outlined">
+              deployed_code
+            </span>
+          </div>
+          <h3 class="mb-3">HR Cloud Software</h3>
           <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
           diam sed stet lorem.</p>
           <a class="btn px-3 mt-auto mx-auto" href="service-details.php">Read More</a>
