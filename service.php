@@ -8,6 +8,7 @@
   <link rel="canonical" href="https://www.at-once.info">
   <link href="css/bootstrap.css" rel="stylesheet">
   <link href="css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="fontawesome/css/all.min.css">
 </head>
 <body>
 
@@ -18,7 +19,20 @@
   <!-- /Preloader -->
 
   <?php include("header.php");?>
-  <?php include("breadcrumbs.php");?>
+  <!-- <?php include("breadcrumbs.php");?> -->
+  <section class="breadcrumbs-wrap" style="background-image: url('images/coverTokyo2.jpg');" data-stellar-background-ratio="0.5">
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="row no-gutters slider-text align-items-end">
+      <div class="col-md-9 ce-animate pb-5">
+        <p class="breadcrumbs mb-2"><span class="mr-2"><a href="index.html">Home <span class="icon material-symbols-outlined">
+          arrow_forward_ios
+        </span></a></span> <span>Services</span></p>
+        <h1 class="mb-0 bread">Services</h1>
+      </div>
+    </div>
+  </div>
+</section>
 
 
   <!-- ======= Service Section ======= -->
@@ -28,65 +42,57 @@
         <div class="row g-5 align-items-center">
           <div class="col-lg-12 heading-section wow fadeIn" data-wow-delay="0.1s">
             <div class="subheading mb-2">Our Services</div>
-            <h2 class="mb-4">Our Services That We Offer For Your Business</h2>
-            <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam
-              amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus
-            clita duo justo et tempor eirmod magna dolore erat amet</p>
+            <h2 class="mb-4">Let us help you strengthen your business</h2>
+            <p class="mb-0">Tokyo Consulting Firm is global accounting firm & CPA firm in Thailand and has over 700 clients all over the world. TCF Thailand provides professional services in the fields of Accounting, Taxation, Payroll, Audit, HR, Legal Services and IT Services. With the current boom in investment from Japan, Tokyo Consulting strives to provide quality service to its clients and serve as a bridge all over the world.</p>
           </div>
 
           <div class="col-md-4 wow fadeIn" data-wow-delay="0.1s">
             <div class="service-item d-flex flex-column justify-content-center text-center rounded">
               <div class="service-icon btn-square">
-                <span class="material-symbols-outlined">
-                  inventory_2
-                </span>
+                <!-- <span class="material-symbols-outlined">
+                   potted_plant
+                </span> -->
+             <i class="fas fa-seedling fa-3x"></i>
               </div>
               <h3 class="mb-3">Business Setup</h3>
-              <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
-              diam sed stet lorem.</p>
-              <a class="btn px-3 mt-auto mx-auto" href="service-details.php">Read More</a>
+                                <p> Tokyo Consulting Firm is composed of highly experienced professionals who specialize in establishing and registering offices and parent companies in Thailand.</p>
+
+              <a class="btn px-3 mt-auto mx-auto" href="setup-business.php">Read More</a>
             </div>
           </div>
 
           <div class="col-md-4 wow fadeIn" data-wow-delay="0.5s">
             <div class="service-item d-flex flex-column justify-content-center text-center rounded">
               <div class="service-icon btn-square">
-               <span class="material-symbols-outlined">
-                potted_plant
-              </span>
+              <i class="fas fa-file-invoice-dollar fa-3x"></i>
             </div>
             <h3 class="mb-3">Tax Services</h3>
-            <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
-            diam sed stet lorem.</p>
-            <a class="btn px-3 mt-auto mx-auto" href="service-details.php">Read More</a>
+                            <p>Our local staff is specialized in Thailand-related tax matters. Thus, we can supply our clients in Thailand with tax structures that support their proposed transactions, thus allowing companies to reduce their tax exposure. </p>
+
+            <a class="btn px-3 mt-auto mx-auto" href="setup-business.php">Read More</a>
           </div>
         </div>
 
         <div class="col-md-4 wow fadeIn" data-wow-delay="0.3s">
           <div class="service-item d-flex flex-column justify-content-center text-center rounded">
             <div class="service-icon btn-square">
-              <span class="material-symbols-outlined">
-                wind_power
-              </span>
+             <i class="fas fa-wallet fa-3x"></i>
             </div>
             <h3 class="mb-3">Accounting Services</h3>
-            <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
-            diam sed stet lorem.</p>
-            <a class="btn px-3 mt-auto mx-auto" href="service-details.php">Read More</a>
+                             <p>With our constant support your business in Thailand will be guaranteed an accurate and timely provision of the records of all the transactions; additionally we will consult you on any aspect of the local accounting standards. </p>
+
+            <a class="btn px-3 mt-auto mx-auto" href="setup-business.php">Read More</a>
           </div>
         </div>
 
         <div class="col-md-4 wow fadeIn" data-wow-delay="0.7s">
           <div class="service-item d-flex flex-column justify-content-center text-center rounded">
             <div class="service-icon btn-square">
-              <span class="material-symbols-outlined">
-                sign_language
-              </span>
+             <i class="fas fa-key fa-3x"></i>
             </div>
             <h3 class="mb-3">Internal Audit</h3>
-            <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
-            diam sed stet lorem.</p>
-            <a class="btn px-3 mt-auto mx-auto" href="service-details.php">Read More</a>
+            <p>Associate staff have reliable professional and educational backgrounds, with high experience in internal auditing, specifically tailored to the authorized system.</p>
+            <a class="btn px-3 mt-auto mx-auto" href="setup-business.php">Read More</a>
           </div>
         </div>
 
@@ -94,14 +100,11 @@
         <div class="col-md-4 wow fadeIn" data-wow-delay="0.7s">
           <div class="service-item d-flex flex-column justify-content-center text-center rounded">
             <div class="service-icon btn-square">
-             <span class="material-symbols-outlined">
-              key
-            </span>
+             <i class="fas fa-clipboard-check fa-3x"></i>
           </div>
           <h3 class="mb-3">Financial Audit</h3>
-          <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
-          diam sed stet lorem.</p>
-          <a class="btn px-3 mt-auto mx-auto" href="service-details.php">Read More</a>
+          <p>Our auditors are professionally equipped to offer best audit services in Thailand that add value to your business by providing regular feedback on your operations.</p>
+          <a class="btn px-3 mt-auto mx-auto" href="setup-business.php">Read More</a>
         </div>
       </div>
 
@@ -109,66 +112,52 @@
       <div class="col-md-4 wow fadeIn" data-wow-delay="0.7s">
         <div class="service-item d-flex flex-column justify-content-center text-center rounded">
           <div class="service-icon btn-square">
-            <span class="material-symbols-outlined">
-              deployed_code
-            </span>
+          <i class="fas fa-money-check-alt fa-3x"></i>
           </div>
           <h3 class="mb-3">Payroll Services</h3>
-          <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
-          diam sed stet lorem.</p>
-          <a class="btn px-3 mt-auto mx-auto" href="service-details.php">Read More</a>
+          <p>Establishing a company payroll system in Thailand with the help of professionals from certified firms is an important decision, with high potential gains in return.</p>
+          <a class="btn px-3 mt-auto mx-auto" href="setup-business.php">Read More</a>
         </div>
       </div>
       <div class="col-md-4 wow fadeIn" data-wow-delay="0.7s">
         <div class="service-item d-flex flex-column justify-content-center text-center rounded">
           <div class="service-icon btn-square">
-            <span class="material-symbols-outlined">
-              deployed_code
-            </span>
+            <i class="fas fa-users fa-3x"></i>
           </div>
           <h3 class="mb-3">Human Resources</h3>
-          <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
-          diam sed stet lorem.</p>
-          <a class="btn px-3 mt-auto mx-auto" href="service-details.php">Read More</a>
+          <p>One of the main issues that companies face in their organizational development is recruitment and education of new employees. Personnel training strategies, such as on-the-job training and business manner education, can be achieved through thorough knowledge and accumulated experience of HR Consultants in Thailand.</p>
+          <a class="btn px-3 mt-auto mx-auto" href="setup-business.php">Read More</a>
         </div>
       </div>
       <div class="col-md-4 wow fadeIn" data-wow-delay="0.7s">
         <div class="service-item d-flex flex-column justify-content-center text-center rounded">
           <div class="service-icon btn-square">
-            <span class="material-symbols-outlined">
-              deployed_code
-            </span>
+            <i class="fas fa-thumbs-up fa-3x"></i>
           </div>
           <h3 class="mb-3">Social Insurance</h3>
-          <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
-          diam sed stet lorem.</p>
-          <a class="btn px-3 mt-auto mx-auto" href="service-details.php">Read More</a>
+          <p>Whether it is accompanying our customers on a regular basis, or providing one-time consulting services, we have the necessary resources to assist our foreign customers and help the establishment and development of their business in Thailand.</p>
+          <a class="btn px-3 mt-auto mx-auto" href="setup-business.php">Read More</a>
         </div>
       </div>
       <div class="col-md-4 wow fadeIn" data-wow-delay="0.7s">
         <div class="service-item d-flex flex-column justify-content-center text-center rounded">
           <div class="service-icon btn-square">
-            <span class="material-symbols-outlined">
-              deployed_code
-            </span>
+         <i class="fas fa-handshake fa-3x"></i>
           </div>
-          <h3 class="mb-3">Mergers and Aquisations</h3>
-          <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
-          diam sed stet lorem.</p>
-          <a class="btn px-3 mt-auto mx-auto" href="service-details.php">Read More</a>
+          <h3 class="mb-3">Mergers and Acquisitions</h3>
+                             <p>Mergers and acquisitions have a profitable side that can create potentially enormous profits for a company, and expose the business to a myriad of financial resources. </p>
+
+          <a class="btn px-3 mt-auto mx-auto" href="setup-business.php">Read More</a>
         </div>
       </div>
       <div class="col-md-4 wow fadeIn" data-wow-delay="0.7s">
         <div class="service-item d-flex flex-column justify-content-center text-center rounded">
           <div class="service-icon btn-square">
-            <span class="material-symbols-outlined">
-              deployed_code
-            </span>
+            <i class="fas fa-cloud-upload-alt fa-3x"></i>
           </div>
           <h3 class="mb-3">HR Cloud Software</h3>
-          <p>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
-          diam sed stet lorem.</p>
-          <a class="btn px-3 mt-auto mx-auto" href="service-details.php">Read More</a>
+          <p>HR Cloud Software helps in drive business results and improves the employee experience. Give your HR department an advantage to automate manual processes. Human Resource cloud software helps organization improve employee experience, transform working culture and turn employee engagement into a business advantage.</p>
+          <a class="btn px-3 mt-auto mx-auto" href="setup-business.php">Read More</a>
         </div>
       </div>
 

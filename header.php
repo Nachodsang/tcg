@@ -20,24 +20,38 @@
             <a class="nav-link" href="consultant.php">CONSULTANT</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="blog.php">M&A</a>
+            <a class="nav-link" href="m&a.php">M&A</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="contact.php">Contact</a>
           </li>
         </ul>
+          <div id="google_translate_element"></div>
       </div>
+    
+     
     </div>
   </nav>
 </header>
 
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'auto',includedLanguages:
+            "en,th,ja",layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit&hl=en"></script>
 <script>
     var url = window.location.href;
 
     var els = document.querySelectorAll(".navbar-nav a");
     for (var i = 0, l = els.length; i < l; i++) {
         var el = els[i];
-        if (el.href === url) {
+
+        if (el.href === url || url.includes(el.href.slice(0,-4))) {
+       
          el.classList.add("active");
      }
  }

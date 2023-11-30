@@ -9,6 +9,7 @@
   <link rel="canonical" href="https://www.at-once.info">
   <link href="css/bootstrap.css" rel="stylesheet">
   <link href="css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="fontawesome/css/all.min.css">
 
 </head>
 <body>
@@ -76,11 +77,9 @@
                 <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
                   <div class="service-item d-flex flex-column justify-content-center text-center rounded">
                     <div class="service-icon btn-square">
-                      <span class="material-symbols-outlined">
-                        inventory_2
-                      </span>
+                      <i class="fas fa-handshake fa-3x"></i>
                     </div>
-                    <h3 class="mb-3">Mergers and Aquisations</h3>
+                    <h3 class="mb-3">Mergers and Acquisitions</h3>
                     <p>Mergers and acquisitions have a profitable side that can create potentially enormous profits for a company, and expose the business to a myriad of financial resources. </p>
                     <a class="btn px-3 mt-auto mx-auto" href="service-details.php">Read More</a>
                   </div>
@@ -88,9 +87,7 @@
                 <div class="col-12 wow fadeIn" data-wow-delay="0.5s">
                   <div class="service-item d-flex flex-column justify-content-center text-center rounded">
                     <div class="service-icon btn-square">
-                     <span class="material-symbols-outlined">
-                      potted_plant
-                    </span>
+                     <i class="fas fa-seedling fa-3x"></i>
                   </div>
                   <h3 class="mb-3">Business Setup</h3>
                   <p> Tokyo Consulting Firm is composed of highly experienced professionals who specialize in establishing and registering offices and parent companies in Thailand.</p>
@@ -104,9 +101,7 @@
               <div class="col-12 wow fadeIn" data-wow-delay="0.3s">
                 <div class="service-item d-flex flex-column justify-content-center text-center rounded">
                   <div class="service-icon btn-square">
-                    <span class="material-symbols-outlined">
-                      wind_power
-                    </span>
+                     <i class="fas fa-file-invoice-dollar fa-3x"></i>
                   </div>
                   <h3 class="mb-3">Tax Services</h3>
                   <p>Our local staff is specialized in Thailand-related tax matters. Thus, we can supply our clients in Thailand with tax structures that support their proposed transactions, thus allowing companies to reduce their tax exposure. </p>
@@ -116,9 +111,7 @@
               <div class="col-12 wow fadeIn" data-wow-delay="0.7s">
                 <div class="service-item d-flex flex-column justify-content-center text-center rounded">
                   <div class="service-icon btn-square">
-                    <span class="material-symbols-outlined">
-                      sign_language
-                    </span>
+                     <i class="fas fa-wallet fa-3x"></i>
                   </div>
                   <h3 class="mb-3">Accounting Services</h3>
                   <p>With our constant support your business in Thailand will be guaranteed an accurate and timely provision of the records of all the transactions; additionally we will consult you on any aspect of the local accounting standards. </p>
@@ -141,8 +134,8 @@
   <div class="container-xxl py-5">
     <div class="container py-5 heading-section">
       <div class="mx-auto text-center wow fadeIn" data-wow-delay="0.1s">
-       <span class="subheading mb-2">NEWS & BLOG</span>
-       <h2 class="mb-5">Mergers and Acquisitions (M&A)</h2>
+       <span class="subheading mb-2">Mergers and Acquisitions (M&A)</span>
+       <h2 class="mb-5">Want to aquire a business? Start from here.</h2>
      </div>
      <div class="row g-5 gx-4">
       <div class="col-md-6 col-lg-4 col-xl-4 wow fadeInUp" data-wow-delay="0.1s">
@@ -150,7 +143,7 @@
           <div class="position-relative">
             <img class="img-fluid" src="images/blog-011.jpg" alt="">
             <div class="blog-overlay">
-              <a class="btn btn-square btn-primary rounded-circle m-1" href="#"><span class="material-symbols-outlined">
+              <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-tech.php"><span class="material-symbols-outlined">
                 visibility
               </span></a>
             </div>
@@ -159,7 +152,7 @@
             <div class="meta mb-2">
               <span>September 25, 2023</span>
             </div>
-            <a class="d-block" href="#"><h3>Generate Lorem Ipsum placeholder text. Select the number of characters</h3></a>
+            <a class="d-block" href="m&a-tech.php"><h3>TechInnovate Invites Strategic Acquisition Partners</h3></a>
           </div>
         </div>
       </div>
@@ -168,7 +161,7 @@
           <div class="position-relative">
             <img class="img-fluid" src="images/blog-022.jpg" alt="">
             <div class="blog-overlay">
-             <a class="btn btn-square btn-primary rounded-circle m-1" href="#"><span class="material-symbols-outlined">
+             <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-tech.php"><span class="material-symbols-outlined">
               visibility
             </span></a>
           </div>
@@ -177,7 +170,7 @@
          <div class="meta mb-2">
           <span>September 25, 2023</span>
         </div>
-        <a class="d-block" href=""><h3>Generate Lorem Ipsum placeholder text. Select the number of characters</h3></a>
+        <a class="d-block" href="m&a-tech.php"><h3>Anonymous Company Seeks Merger for Automotive Innovation</h3></a>
       </div>
     </div>
   </div>
@@ -186,7 +179,7 @@
       <div class="position-relative">
         <img class="img-fluid" src="images/blog-033.jpg" alt="">
         <div class="blog-overlay">
-         <a class="btn btn-square btn-primary rounded-circle m-1" href="#"><span class="material-symbols-outlined">
+         <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-tech.php"><span class="material-symbols-outlined">
           visibility
         </span></a>
       </div>
@@ -195,14 +188,14 @@
       <div class="meta mb-2">
         <span>September 25, 2023</span>
       </div>
-      <a class="d-block" href="#"><h3>Generate Lorem Ipsum placeholder text. Select the number of characters</h3></a>
+      <a class="d-block" href="m&a-tech.php"><h3>Anonymous Company Open to Strategic Merger Opportunities</h3></a>
     </div>
   </div>
 </div>
 </div>
 </div>
 <div class="text-center">
-  <a class="btn btn-primary" href="blog.php">All Blog</a>
+  <a class="btn btn-primary" href="m&a.php">All M&A</a>
 </div>
 </div>
 </section>

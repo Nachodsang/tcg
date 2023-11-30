@@ -2,14 +2,15 @@
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-md-12 text-center">
+					
 				<div class="footer-heading"><a href="index.php"><img src="images/logo/logoTCG01.png" class="logo"></a></div>
-				
+			
 				<p class="menu">
 					<a href="index.php">Home</a>
 					<a href="about.php">About</a>
 					<a href="service.php">Service</a>
 					<a href="blog.php">Consultant</a>
-					<a href="blog.php">M&A</a>
+					<a href="m&a.php">M&A</a>
 					<a href="contact.php">Contact</a>
 				</p>
 				<ul class="footer-social p-0">
@@ -21,6 +22,9 @@
 		</div>
 		<div class="row mt-3">
 			<div class="col-md-12 text-center">
+				<div class="copyright">
+					Room 184, 18th Floor, Thai CC Tower, 43 South Sathorn Rd., Yannawa, Sathorn, Bangkok 10120 Thailand
+				</div>
 				<div class="copyright">
 					Copyright ©<script>document.write(new Date().getFullYear());</script>2023 All rights reserved | This website is developed <i class="ion-ios-heart" aria-hidden="true"></i> by <a href="https://at-once.info" target="_blank">at-once.info</a>
 				</div>

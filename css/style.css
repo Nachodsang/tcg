@@ -404,6 +404,23 @@ footer .copyright {
   min-height: 420px;
 }
 
+/* google translate */
+.google_translate_element {
+  width: "200px";
+}
+
+.goog-te-gadget-icon {
+  display: none;
+}
+
+.VIpgJd-ZVi9od-l4eHX-hSRGPd {
+  display: none;
+}
+
+.goog-te-gadget-simple {
+  display: flex;
+}
+
 @-webkit-keyframes load7 {
   0%,
   80%,
