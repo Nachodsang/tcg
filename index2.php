@@ -24,148 +24,8 @@
   <?php include("header.php");?>
   <?php include("slide.php");?>  
 
-<section>
-  <div class="container-fluid section">
-    <div class="container ">
-      <div class="row g-5 align-items-center">
-        <div class="col-lg-5 heading-section wow fadeIn" data-wow-delay="0.1s ">
-          <div class="subheading mb-2">TOKYO CONSULTING GROUP</div>
-          <h2 class="mb-4">Our Services</h2>
-          <p class="mb-4">We have an integrated service philosophy which allows us to provide the best service by selecting the exact expertise needed for each project from our experienced staff. Thus, we can deliver the best service possible, from accounting and tax consulting work, to legal and cultural education about customs and regulations in Thailand. Throughout the wide range of services we provide, our commitment to our clients is absolute, and we focus on providing additional value to every engagement. It is our ultimate goal and wish that our clients become increasingly successful, and contribute to society in an effective way through our support.</p>
-          <a class="btn btn-primary " href="service.php">All Services</a>
-        </div>
-        <div class="col-lg-7">
-          <div class="row g-4">
-            <div class="col-md-6">
-              <div class="row g-4">
-                <div class="col-12 wow fadeIn" data-wow-delay="0.1s ">
-                  <div style="min-height:450px;"  class="shadow service-item d-flex flex-column justify-content-center text-center rounded">
-                    <div class="service-icon btn-square">
-                      <i class="fas fa-handshake fa-3x"></i>
-                    </div>
-                    <h3 class="mb-3">Mergers and Acquisitions</h3>
-                    <p>Mergers and acquisitions have a profitable side that can create potentially enormous profits for a company, and expose the business to a myriad of financial resources. </p>
-                    <a class="btn px-3 mt-auto mx-auto" href="m&a.php">Read More</a>
-                  </div>
-                </div>
-                <div class="col-12 wow fadeIn" data-wow-delay="0.5s ">
-                  <div style="min-height:450px;" class="shadow service-item d-flex flex-column justify-content-center text-center rounded">
-                    <div class="service-icon btn-square">
-                     <i class="fas fa-seedling fa-3x"></i>
-                  </div>
-                  <h3 class="mb-3">Consulting Services</h3>
-                  <p> Tokyo Consulting Firm is composed of highly experienced professionals who specialize in establishing and registering offices and parent companies in Thailand.</p>
-                  <a class="btn px-3 mt-auto mx-auto" href="service-consulting.php">Read More</a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 pt-md-4">
-            <div class="row g-4">
-              <div class="col-12 wow fadeIn" data-wow-delay="0.3s ">
-                <div style="min-height:450px;" class="shadow service-item d-flex flex-column justify-content-center text-center rounded">
-                  <div class="service-icon btn-square">
-                     <i class="fas fa-file-invoice-dollar fa-3x"></i>
-                  </div>
-                  <h3 class="mb-3">Accounting Services</h3>
-                  <p>With our constant support your business in Thailand,we guarantee an accurate and timely provision of the records of all the transactions. </p>
-                  <a class="btn px-3 mt-auto mx-auto" href="service-accounting.php">Read More</a>
-                </div>
-              </div>
-              <div class="col-12 wow fadeIn" data-wow-delay="0.7s ">
-                <div style="min-height:450px;" class="shadow service-item d-flex flex-column justify-content-center text-center rounded">
-                  <div class="service-icon btn-square">
-                    <i class="fas fa-stream fa-3x"></i>
-                  </div>
-                  <h3 class="mb-3">ALL Services</h3>
-                  <p>We provide consulting and advising services in various types of businesses and industries for foreign and prospective entities setting business in Thailand. </p>
-                  <a class="btn px-3 mt-auto mx-auto" href="service.php">Read More</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-</section>
 
-<section>
-  <div class="container-fluid c-bg-secondary  py-5">
-    <div class="container pb-5 heading-section">
-      <div class="mx-auto text-center wow fadeIn" data-wow-delay="0.1s">
-       <span class="subheading mb-2">Mergers and Acquisitions (M&A)</span>
-       <h2 class="mb-5">Looking for new opportunity? Start from here.</h2>
-     </div>
-     <div class="row g-5 gx-4">
-      <div class="col-md-6 col-lg-4 col-xl-4 wow fadeInUp" data-wow-delay="0.1s">
-        <div class="blog-item">
-          <div class="position-relative " >
-            <div class="corner-sale"><span>TO SALE</span></div>
-            <img class="img-fluid" src="images/blog-011.jpg" alt="" >
-            <div class="blog-overlay">
-              <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-tech.php"><span class="material-symbols-outlined">
-                visibility
-              </span></a>
-            </div>
-          </div>
-          <div class="text-center p-4">
-            <div class="meta mb-2">
-              <span>September 25, 2023</span>
-            </div>
-            <a class="d-block" href="m&a-tech.php"><h3>TechInnovate Invites Strategic Acquisition Partners</h3></a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-6 col-lg-4 col-xl-4 wow fadeInUp" data-wow-delay="0.3s">
-        <div class="blog-item">
-          <div class="position-relative">
-            <div class="corner-sale"><span>TO SALE</span></div>
-            <img class="img-fluid" src="images/blog-022.jpg" alt="">
-            <div class="blog-overlay">
-             <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-tech.php"><span class="material-symbols-outlined">
-              visibility
-            </span></a>
-          </div>
-        </div>
-        <div class="text-center p-4">
-         <div class="meta mb-2">
-          <span>September 25, 2023</span>
-        </div>
-        <a class="d-block" href="m&a-tech.php"><h3>Anonymous Company Seeks Merger for Automotive Innovation</h3></a>
-      </div>
-    </div>
-  </div>
-  <div class="col-md-6 col-lg-4 col-xl-4 wow fadeInUp" data-wow-delay="0.5s">
-    <div class="blog-item">
-      <div class="position-relative">
-        <div class="corner-buy"><span>TO BUY</span></div>
-        <img class="img-fluid" src="images/blog-033.jpg" alt="">
-        <div class="blog-overlay">
-         <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-tech.php"><span class="material-symbols-outlined">
-          visibility
-        </span></a>
-      </div>
-    </div>
-    <div class="text-center p-4">
-      <div class="meta mb-2">
-        <span>September 25, 2023</span>
-      </div>
-      <a class="d-block" href="m&a-tech.php"><h3>Anonymous Company Open to Strategic Merger Opportunities</h3></a>
-    </div>
-  </div>
-</div>
-</div>
-</div>
-<div class="text-center">
-  <a class="btn btn-primary" href="m&a.php">All M&A</a>
-</div>
-</div>
-</section>
-
-
-  <section class="section">
+  <section class="half-section">
    <div class="container-fluid">
     <div class="row d-flex">
      <div class="col-md-6 p-0 d-flex wow fadeIn" data-wow-delay="0.1s">
@@ -202,10 +62,146 @@
 
 
 
+<section>
+  <div class="container-fluid c-bg-secondary section">
+    <div class="container py-5">
+      <div class="row g-5 align-items-center">
+        <div class="col-lg-5 heading-section wow fadeIn" data-wow-delay="0.1s">
+          <div class="subheading mb-2">Our Services</div>
+          <h2 class="mb-4">Our Services That We Offer To Your Business</h2>
+          <p class="mb-4">We have an integrated service philosophy which allows us to provide the best service by selecting the exact expertise needed for each project from our experienced staff. Thus, we can deliver the best service possible, from accounting and tax consulting work, to legal and cultural education about customs and regulations in Thailand. Throughout the wide range of services we provide, our commitment to our clients is absolute, and we focus on providing additional value to every engagement. It is our ultimate goal and wish that our clients become increasingly successful, and contribute to society in an effective way through our support.</p>
+          <a class="btn btn-primary" href="service.php">All Services</a>
+        </div>
+        <div class="col-lg-7">
+          <div class="row g-4">
+            <div class="col-md-6">
+              <div class="row g-4">
+                <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
+                  <div class="service-item d-flex flex-column justify-content-center text-center rounded">
+                    <div class="service-icon btn-square">
+                      <i class="fas fa-handshake fa-3x"></i>
+                    </div>
+                    <h3 class="mb-3">Mergers and Acquisitions</h3>
+                    <p>Mergers and acquisitions have a profitable side that can create potentially enormous profits for a company, and expose the business to a myriad of financial resources. </p>
+                    <a class="btn px-3 mt-auto mx-auto" href="m&a.php">Read More</a>
+                  </div>
+                </div>
+                <div class="col-12 wow fadeIn" data-wow-delay="0.5s">
+                  <div class="service-item d-flex flex-column justify-content-center text-center rounded">
+                    <div class="service-icon btn-square">
+                     <i class="fas fa-seedling fa-3x"></i>
+                  </div>
+                  <h3 class="mb-3">Consulting Services</h3>
+                  <p> Tokyo Consulting Firm is composed of highly experienced professionals who specialize in establishing and registering offices and parent companies in Thailand.</p>
+                  <a class="btn px-3 mt-auto mx-auto" href="service-consulting.php">Read More</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 pt-md-4">
+            <div class="row g-4">
+              <div class="col-12 wow fadeIn" data-wow-delay="0.3s">
+                <div class="service-item d-flex flex-column justify-content-center text-center rounded">
+                  <div class="service-icon btn-square">
+                     <i class="fas fa-file-invoice-dollar fa-3x"></i>
+                  </div>
+                  <h3 class="mb-3">Accounting Services</h3>
+                  <p>With our constant support your business in Thailand will be guaranteed an accurate and timely provision of the records of all the transactions; additionally we will consult you on any aspect of the local accounting standards. </p>
+                  <a class="btn px-3 mt-auto mx-auto" href="service-accounting.php">Read More</a>
+                </div>
+              </div>
+              <div class="col-12 wow fadeIn" data-wow-delay="0.7s">
+                <div class="service-item d-flex flex-column justify-content-center text-center rounded">
+                  <div class="service-icon btn-square">
+                    <i class="fas fa-stream fa-3x"></i>
+                  </div>
+                  <h3 class="mb-3">ALL Services</h3>
+                  <p>We provide consulting and advising services in various types of businesses and industries for foreign and prospective entities setting business in Thailand. </p>
+                  <a class="btn px-3 mt-auto mx-auto" href="services.php">Read More</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
 
 
 
 
+<section>
+  <div class="container-xxl py-5">
+    <div class="container py-5 heading-section">
+      <div class="mx-auto text-center wow fadeIn" data-wow-delay="0.1s">
+       <span class="subheading mb-2">Mergers and Acquisitions (M&A)</span>
+       <h2 class="mb-5">Want to aquire a business? Start from here.</h2>
+     </div>
+     <div class="row g-5 gx-4">
+      <div class="col-md-6 col-lg-4 col-xl-4 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="blog-item">
+          <div class="position-relative " >
+            <div class="corner"><span>For Sale</span></div>
+            <img class="img-fluid" src="images/blog-011.jpg" alt="">
+            <div class="blog-overlay">
+              <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-tech.php"><span class="material-symbols-outlined">
+                visibility
+              </span></a>
+            </div>
+          </div>
+          <div class="text-center p-4">
+            <div class="meta mb-2">
+              <span>September 25, 2023</span>
+            </div>
+            <a class="d-block" href="m&a-tech.php"><h3>TechInnovate Invites Strategic Acquisition Partners</h3></a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4 col-xl-4 wow fadeInUp" data-wow-delay="0.3s">
+        <div class="blog-item">
+          <div class="position-relative">
+            <img class="img-fluid" src="images/blog-022.jpg" alt="">
+            <div class="blog-overlay">
+             <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-tech.php"><span class="material-symbols-outlined">
+              visibility
+            </span></a>
+          </div>
+        </div>
+        <div class="text-center p-4">
+         <div class="meta mb-2">
+          <span>September 25, 2023</span>
+        </div>
+        <a class="d-block" href="m&a-tech.php"><h3>Anonymous Company Seeks Merger for Automotive Innovation</h3></a>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6 col-lg-4 col-xl-4 wow fadeInUp" data-wow-delay="0.5s">
+    <div class="blog-item">
+      <div class="position-relative">
+        <img class="img-fluid" src="images/blog-033.jpg" alt="">
+        <div class="blog-overlay">
+         <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-tech.php"><span class="material-symbols-outlined">
+          visibility
+        </span></a>
+      </div>
+    </div>
+    <div class="text-center p-4">
+      <div class="meta mb-2">
+        <span>September 25, 2023</span>
+      </div>
+      <a class="d-block" href="m&a-tech.php"><h3>Anonymous Company Open to Strategic Merger Opportunities</h3></a>
+    </div>
+  </div>
+</div>
+</div>
+</div>
+<div class="text-center">
+  <a class="btn btn-primary" href="m&a.php">All M&A</a>
+</div>
+</div>
+</section>
 
 
 

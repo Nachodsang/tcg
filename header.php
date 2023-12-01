@@ -49,9 +49,10 @@ function googleTranslateElementInit() {
     var els = document.querySelectorAll(".navbar-nav a");
     for (var i = 0, l = els.length; i < l; i++) {
         var el = els[i];
-
+        console.log(url)
+console.log(el.href)
         if (el.href === url || url.includes(el.href.slice(0,-4))) {
-       
+       console.log(el, el.href)
          el.classList.add("active");
      }
  }

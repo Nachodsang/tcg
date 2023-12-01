@@ -19,7 +19,7 @@
 
   <?php include("header.php");?>
   <!-- <?php include("breadcrumbs.php");?> -->
-    <section class="breadcrumbs-wrap" style="background-image: url('images/coverTokyo2.jpg');" data-stellar-background-ratio="0.5">
+    <section class="breadcrumbs-wrap" style="background-image: url('images/coverTokyo4.jpg');" data-stellar-background-ratio="0.5">
   <div class="overlay"></div>
   <div class="container">
     <div class="row no-gutters slider-text align-items-end">
@@ -45,6 +45,7 @@
       <div class="col-md-6 col-lg-4 col-xl-4 wow fadeInUp" data-wow-delay="0.1s">
         <div class="blog-item">
           <div class="position-relative">
+             <div class="corner-sale"><span>TO SALE</span></div>
             <img class="img-fluid" src="images/blog-011.jpg" alt="">
             <div class="blog-overlay">
               <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-tech.php"><span class="material-symbols-outlined">
@@ -63,6 +64,7 @@
       <div class="col-md-6 col-lg-4 col-xl-4 wow fadeInUp" data-wow-delay="0.3s">
         <div class="blog-item">
           <div class="position-relative">
+             <div class="corner-sale"><span>TO SALE</span></div>
             <img class="img-fluid" src="images/blog-022.jpg" alt="">
             <div class="blog-overlay">
              <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-tech.php"><span class="material-symbols-outlined">
@@ -81,6 +83,7 @@
   <div class="col-md-6 col-lg-4 col-xl-4 wow fadeInUp" data-wow-delay="0.5s">
     <div class="blog-item">
       <div class="position-relative">
+         <div class="corner-buy"><span>TO BUY</span></div>
         <img class="img-fluid" src="images/blog-033.jpg" alt="">
         <div class="blog-overlay">
          <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-tech.php"><span class="material-symbols-outlined">
@@ -99,6 +102,7 @@
 <div class="col-md-6 col-lg-4 col-xl-4 wow fadeInUp" data-wow-delay="0.1s">
   <div class="blog-item">
     <div class="position-relative">
+       <div class="corner-buy"><span>TO BUY</span></div>
       <img class="img-fluid" src="images/blog-04.jpg" alt="">
       <div class="blog-overlay">
         <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-tech.php"><span class="material-symbols-outlined">
@@ -117,6 +121,7 @@
 <div class="col-md-6 col-lg-4 col-xl-4 wow fadeInUp" data-wow-delay="0.3s">
   <div class="blog-item">
     <div class="position-relative">
+       <div class="corner-buy"><span>TO BUY</span></div>
       <img class="img-fluid" src="images/blog-055.jpg" alt="">
       <div class="blog-overlay">
        <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-tech.php""><span class="material-symbols-outlined">
@@ -135,6 +140,7 @@
 <div class="col-md-6 col-lg-4 col-xl-4 wow fadeInUp" data-wow-delay="0.5s">
   <div class="blog-item">
     <div class="position-relative">
+       <div class="corner-sale"><span>TO SALE</span></div>
       <img class="img-fluid" src="images/blog-06.jpg" alt="">
       <div class="blog-overlay">
        <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-tech.php"><span class="material-symbols-outlined">

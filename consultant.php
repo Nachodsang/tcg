@@ -19,7 +19,7 @@
 
   <?php include("header.php");?>
   <!-- <?php include("breadcrumbs.php");?> -->
-    <section class="breadcrumbs-wrap" style="background-image: url('images/coverTokyo2.jpg');" data-stellar-background-ratio="0.5">
+    <section class="breadcrumbs-wrap" style="background-image: url('images/coverTokyo4.jpg');" data-stellar-background-ratio="0.5">
   <div class="overlay"></div>
   <div class="container">
     <div class="row no-gutters slider-text align-items-end">
@@ -78,7 +78,7 @@
                 overflow: hidden;
                 display: -webkit-box;
                 line-height: 25px;
-                -webkit-box-orient: vertical;"> After joining Tokyo Consulting Group, he started working at Tokyo Consulting Firm Thailand in January 2017. Mainly for Japanese companies operating in Thailand, we provide comprehensive legal and labor support, the construction and operation of personnel evaluation systems, and support for personnel introductions.</p>
+                -webkit-box-orient: vertical;"> After joining Tokyo Consulting Group, she started working at Tokyo Consulting Firm Thailand in January 2017. Mainly for Japanese companies operating in Thailand, we provide comprehensive legal and labor support, the construction and operation of personnel evaluation systems, and support for personnel introductions.</p>
                   <a class="btn px-3 mt-auto mx-auto" href="#">Read More</a>
                 </div>
               </div>
@@ -97,7 +97,7 @@
                 overflow: hidden;
                 display: -webkit-box;
                 line-height: 25px;
-                -webkit-box-orient: vertical;">After joining Tokyo Consulting Group, he was appointed to the International Business Department at the Tokyo Head Office. Currently, he is assigned to the company's Thai subsidiary, which is one of the company's 44 locations in 27 countries. He mainly works with Japanese companies on financial, labor, and legal back-office matters, as well as support for overseas expansion and withdrawal. </p>
+                -webkit-box-orient: vertical;">After joining Tokyo Consulting Group, she was appointed to the International Business Department at the Tokyo Head Office. Currently, she is assigned to the company's Thai subsidiary, which is one of the company's 44 locations in 27 countries. She mainly works with Japanese companies on financial, labor, and legal back-office matters, as well as support for overseas expansion and withdrawal. </p>
                   <a class="btn px-3 mt-auto mx-auto" href="#">Read More</a>
                 </div>
               </div>

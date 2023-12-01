@@ -27,8 +27,8 @@
       <div class="col-md-9 ce-animate pb-5">
         <p class="breadcrumbs mb-2"><span class="mr-2"><a href="index.html">Home <span class="icon material-symbols-outlined">
           arrow_forward_ios
-        </span></a></span> <span>Services</span></p>
-        <h1 class="mb-0 bread">Services</h1>
+        </span></a></span> <span>Consulting Services</span></p>
+        <h1 class="mb-0 bread">Consulting Services</h1>
       </div>
     </div>
   </div>
@@ -62,106 +62,44 @@
               <a class="btn px-3 mt-auto mx-auto" href="setup-business.php">Read More</a>
             </div>
           </div>
+          
 
           <div class="col-md-4 wow fadeIn" data-wow-delay="0.5s">
             <div class="service-item d-flex flex-column justify-content-center text-center rounded">
               <div class="service-icon btn-square">
-              <i class="fas fa-file-invoice-dollar fa-3x"></i>
-            </div>
-            <h3 class="mb-3">Tax Services</h3>
-                            <p>Our local staff is specialized in Thailand-related tax matters. Thus, we can supply our clients in Thailand with tax structures that support their proposed transactions, thus allowing companies to reduce their tax exposure. </p>
-
+            <i class="fas fa-users fa-3x"></i>
+          </div>
+          <h3 class="mb-3">Human Resources</h3>
+          <p>One of the main issues that companies face in their organizational development is recruitment and education of new employees. Personnel training strategies, such as on-the-job training and business manner education, can be achieved through thorough knowledge and accumulated experience of HR Consultants in Thailand.</p>
             <a class="btn px-3 mt-auto mx-auto" href="setup-business.php">Read More</a>
           </div>
         </div>
 
         <div class="col-md-4 wow fadeIn" data-wow-delay="0.3s">
           <div class="service-item d-flex flex-column justify-content-center text-center rounded">
-            <div class="service-icon btn-square">
-             <i class="fas fa-wallet fa-3x"></i>
-            </div>
-            <h3 class="mb-3">Accounting Services</h3>
-                             <p>With our constant support your business in Thailand will be guaranteed an accurate and timely provision of the records of all the transactions; additionally we will consult you on any aspect of the local accounting standards. </p>
-
-            <a class="btn px-3 mt-auto mx-auto" href="setup-business.php">Read More</a>
-          </div>
-        </div>
-
-        <div class="col-md-4 wow fadeIn" data-wow-delay="0.7s">
-          <div class="service-item d-flex flex-column justify-content-center text-center rounded">
-            <div class="service-icon btn-square">
-             <i class="fas fa-key fa-3x"></i>
-            </div>
-            <h3 class="mb-3">Internal Audit</h3>
-            <p>Associate staff have reliable professional and educational backgrounds, with high experience in internal auditing, specifically tailored to the authorized system.</p>
-            <a class="btn px-3 mt-auto mx-auto" href="setup-business.php">Read More</a>
-          </div>
-        </div>
-
-
-        <div class="col-md-4 wow fadeIn" data-wow-delay="0.7s">
-          <div class="service-item d-flex flex-column justify-content-center text-center rounded">
-            <div class="service-icon btn-square">
-             <i class="fas fa-clipboard-check fa-3x"></i>
-          </div>
-          <h3 class="mb-3">Financial Audit</h3>
-          <p>Our auditors are professionally equipped to offer best audit services in Thailand that add value to your business by providing regular feedback on your operations.</p>
-          <a class="btn px-3 mt-auto mx-auto" href="setup-business.php">Read More</a>
-        </div>
-      </div>
-
-
-      <div class="col-md-4 wow fadeIn" data-wow-delay="0.7s">
-        <div class="service-item d-flex flex-column justify-content-center text-center rounded">
-          <div class="service-icon btn-square">
-          <i class="fas fa-money-check-alt fa-3x"></i>
-          </div>
-          <h3 class="mb-3">Payroll Services</h3>
-          <p>Establishing a company payroll system in Thailand with the help of professionals from certified firms is an important decision, with high potential gains in return.</p>
-          <a class="btn px-3 mt-auto mx-auto" href="setup-business.php">Read More</a>
-        </div>
-      </div>
-      <div class="col-md-4 wow fadeIn" data-wow-delay="0.7s">
-        <div class="service-item d-flex flex-column justify-content-center text-center rounded">
-          <div class="service-icon btn-square">
-            <i class="fas fa-users fa-3x"></i>
-          </div>
-          <h3 class="mb-3">Human Resources</h3>
-          <p>One of the main issues that companies face in their organizational development is recruitment and education of new employees. Personnel training strategies, such as on-the-job training and business manner education, can be achieved through thorough knowledge and accumulated experience of HR Consultants in Thailand.</p>
-          <a class="btn px-3 mt-auto mx-auto" href="setup-business.php">Read More</a>
-        </div>
-      </div>
-      <div class="col-md-4 wow fadeIn" data-wow-delay="0.7s">
-        <div class="service-item d-flex flex-column justify-content-center text-center rounded">
-          <div class="service-icon btn-square">
+             <div class="service-icon btn-square">
             <i class="fas fa-thumbs-up fa-3x"></i>
           </div>
           <h3 class="mb-3">Social Insurance</h3>
           <p>Whether it is accompanying our customers on a regular basis, or providing one-time consulting services, we have the necessary resources to assist our foreign customers and help the establishment and development of their business in Thailand.</p>
-          <a class="btn px-3 mt-auto mx-auto" href="setup-business.php">Read More</a>
-        </div>
-      </div>
-      <div class="col-md-4 wow fadeIn" data-wow-delay="0.7s">
-        <div class="service-item d-flex flex-column justify-content-center text-center rounded">
-          <div class="service-icon btn-square">
-         <i class="fas fa-handshake fa-3x"></i>
-          </div>
-          <h3 class="mb-3">Mergers and Acquisitions</h3>
-                             <p>Mergers and acquisitions have a profitable side that can create potentially enormous profits for a company, and expose the business to a myriad of financial resources. </p>
 
-          <a class="btn px-3 mt-auto mx-auto" href="setup-business.php">Read More</a>
+            <a class="btn px-3 mt-auto mx-auto" href="setup-business.php">Read More</a>
+          </div>
         </div>
-      </div>
-      <div class="col-md-4 wow fadeIn" data-wow-delay="0.7s">
-        <div class="service-item d-flex flex-column justify-content-center text-center rounded">
-          <div class="service-icon btn-square">
+
+        <div class="col-md-4 wow fadeIn" data-wow-delay="0.7s">
+          <div class="service-item d-flex flex-column justify-content-center text-center rounded">
+            <div class="service-icon btn-square">
             <i class="fas fa-cloud-upload-alt fa-3x"></i>
           </div>
           <h3 class="mb-3">HR Cloud Software</h3>
           <p>HR Cloud Software helps in drive business results and improves the employee experience. Give your HR department an advantage to automate manual processes. Human Resource cloud software helps organization improve employee experience, transform working culture and turn employee engagement into a business advantage.</p>
-          <a class="btn px-3 mt-auto mx-auto" href="setup-business.php">Read More</a>
+            <a class="btn px-3 mt-auto mx-auto" href="setup-business.php">Read More</a>
+          </div>
         </div>
-      </div>
+
+
+      
 
 
     </div>

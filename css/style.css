@@ -39,10 +39,10 @@
 }
 
 .c-primary {
-  color: #b51917;
+  color: #113559;
 }
 .c-secondary {
-  color: #113559;
+  color: #b51917;
 }
 .c-tertiary {
   color: #333333;
@@ -119,6 +119,12 @@ a {
   border: 1px solid var(--c-primary);
   background: transparent;
   color: var(--c-primary);
+}
+
+.btn.btn-primary.btn-header:hover {
+  border: 1px solid var(--c-white);
+  background: transparent;
+  color: var(--c-white);
 }
 
 .pl-3,
@@ -201,15 +207,15 @@ header .navbar-nav > .nav-item > .nav-link {
 }
 
 header .navbar-nav > .nav-item > .nav-link.active {
-  background: #b51917;
-  background-color: #b51917;
-  /* background: var(--c-primary); */
+  background: var(--c-secondary);
+  background-color: var(--c-secondary);
+  /* background: var(--c-secondary); */
   color: var(--c-white);
 }
 
 header .navbar-nav > .nav-item.active > a:before {
   visibility: visible;
-  background-color: var(--c-primary);
+  background-color: var(--c-secondary);
   -webkit-transform: scaleX(1);
   -ms-transform: scaleX(1);
   transform: scaleX(1);
@@ -222,7 +228,7 @@ header .navbar-nav > .nav-item > .nav-link:before {
   height: 100%;
   bottom: 0;
   left: 0;
-  background-color: #b51917;
+  background-color: var(--c-secondary);
   visibility: hidden;
   -webkit-transform: scaleX(0);
   -ms-transform: scaleX(0);
@@ -239,7 +245,7 @@ header .navbar-nav > .nav-item > .nav-link:hover {
 
 header .navbar-nav > .nav-item > .nav-link:hover:before {
   visibility: visible;
-  background-color: #b51917;
+  background-color: var(--c-secondary);
   -webkit-transform: scaleX(1);
   -ms-transform: scaleX(1);
   transform: scaleX(1);
@@ -325,7 +331,7 @@ footer .copyright {
   height: 40px;
   text-align: center;
   line-height: 30px;
-  background-color: var(--c-primary);
+  background-color: var(--c-secondary);
   color: var(--c-white);
   cursor: pointer;
   border: 0;
@@ -372,7 +378,7 @@ footer .copyright {
 
 .loader {
   margin-top: -20px;
-  color: var(--c-primary);
+  color: var(--c-secondary);
   font-size: 6px;
   position: relative;
   -webkit-transform: translateZ(0);
@@ -400,6 +406,47 @@ footer .copyright {
 }
 
 /* Tm style */
+
+.corner-sale {
+  width: 0;
+  height: 0;
+
+  border-top: 100px solid var(--c-primary);
+  border-bottom: 100px solid transparent;
+  border-right: 100px solid transparent;
+  /* border-left: 100px solid transparent; */
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+.corner-buy {
+  width: 0;
+  height: 0;
+
+  border-top: 100px solid var(--c-secondary);
+  border-bottom: 100px solid transparent;
+  border-right: 100px solid transparent;
+  /* border-left: 100px solid transparent; */
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+.corner-sale span,
+.corner-buy span {
+  position: absolute;
+  top: -71px;
+  width: 100px;
+  left: -11px;
+  text-align: center;
+  font-size: 16px;
+  /* font-family: arial; */
+  transform: rotate(-45deg);
+  display: block;
+  color: white;
+}
+
 .card-about {
   min-height: 420px;
 }
