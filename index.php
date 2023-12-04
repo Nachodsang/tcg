@@ -170,9 +170,9 @@
     <div class="row d-flex">
      <div class="col-md-6 p-0 d-flex wow fadeIn" data-wow-delay="0.1s">
       <div   class="image hover-effect img-container  ">
-      <div style="background:#113559; transform: translateX(20px);" class=" rounded-circle shadow">
+      <div style="background-color:rgba(219,126,55,0.4); transform: translate(20px,10px);" class=" rounded-circle shadow">
 
-        <img style="transform: translateX(-20px); " alt="" src="images/signing.png" class="img-fluid rounded-circle ">
+        <img style="transform: translate(-20px, -10px); " alt="" src="images/bangkok-river.jpg" class="img-fluid rounded-circle ">
       </div>
       </div>
     </div>

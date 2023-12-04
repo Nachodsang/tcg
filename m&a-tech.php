@@ -20,7 +20,7 @@
   <?php include("header.php");?>
   <!-- <?php include("breadcrumbs.php");?> -->
 
-<section class="breadcrumbs-wrap" style="background-image: url('images/coverTokyo4.jpg');" data-stellar-background-ratio="0.5">
+<section class="breadcrumbs-wrap" style="background-image: url('images/bangkok-city1.jpg');" data-stellar-background-ratio="0.5">
   <div class="overlay"></div>
   <div class="container">
     <div class="row no-gutters slider-text align-items-end">
@@ -38,7 +38,7 @@
    <div class="container-fluid">
     <div class="row">
      <div class="col-lg-6 p-0">
-      <div  style="transform: translateX(20px);" class="image hover-effect bg-danger rounded-circle img-container shadow">
+      <div  style="transform: translateX(20px); background-color:rgba(219,126,55,0.4)" class="image hover-effect  rounded-circle img-container shadow">
        <img style="transform: translateX(-20px);" alt="" src="images/robotic-hand.jpg" class="rounded-circle  img-fluid equalheight">
      </div>
    </div>
@@ -86,6 +86,7 @@
 </div>
 </div>
 </section>
+<?php include("inquiryModal.php");?>
 
 
 

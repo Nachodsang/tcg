@@ -12,16 +12,16 @@
   --c-blue: #7ebbff;
   --c-red: #f3797e;
 
-  --c-primary: #b51917;
-  --c-secondary: #113559;
+  --c-primary: rgba(219, 126, 55, 0.7);
+  --c-secondary: rgba(55, 147, 219, 0.7);
   --c-tertiary: #333333;
   --c-light: #f8f9fd;
 
-  --c-bg-primary: #b51917;
+  --c-bg-primary: rgba(219, 126, 55, 0.7);
   --c-bg-secondary: #f8f9fd;
   --c-bg-tertiary: #ffffff;
 
-  --c-text-primary: #113559;
+  --c-text-primary: #3793db;
   --c-text-secondary: #1f1f1f;
   --c-text-tertiary: #808080;
 
@@ -39,10 +39,10 @@
 }
 
 .c-primary {
-  color: #113559;
+  color: #3793db;
 }
 .c-secondary {
-  color: #b51917;
+  color: #db7e37;
 }
 .c-tertiary {
   color: #333333;
@@ -445,6 +445,10 @@ footer .copyright {
   transform: rotate(-45deg);
   display: block;
   color: white;
+}
+
+.hidden {
+  display: none;
 }
 
 .card-about {

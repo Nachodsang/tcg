@@ -232,7 +232,7 @@
   background: #fff;
 }
 .owl-dots .owl-dot.active {
-  background: #5a0b08;
+  background: rgba(219, 126, 55, 0.7);
 }
 .owl-dots .owl-dot {
   width: 10px;

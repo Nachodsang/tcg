@@ -3,7 +3,7 @@
 		<div class="row justify-content-center">
 			<div class="col-md-12 text-center">
 					
-				<div class="footer-heading"><a href="index.php"><img src="images/logo/logoTCG01.png" class="logo"></a></div>
+				<div class="footer-heading"><a href="index.php"><img src="images/logo/logoTCF.png" class="logo"></a></div>
 			
 				<p class="menu">
 					<a href="index.php">Home</a>

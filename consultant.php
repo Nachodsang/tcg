@@ -19,7 +19,7 @@
 
   <?php include("header.php");?>
   <!-- <?php include("breadcrumbs.php");?> -->
-    <section class="breadcrumbs-wrap" style="background-image: url('images/coverTokyo4.jpg');" data-stellar-background-ratio="0.5">
+    <section class="breadcrumbs-wrap" style="background-image: url('images/bangkok-city1.jpg');" data-stellar-background-ratio="0.5">
   <div class="overlay"></div>
   <div class="container">
     <div class="row no-gutters slider-text align-items-end">
@@ -51,7 +51,7 @@
               <div class="row g-4">
                 <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
                   <div style="min-height:300px" class="service-item d-flex flex-column justify-content-center text-center rounded" style=" transform:translateX(6px)">
-                    <div class="service-icon btn-square shadow " style="background-color:#B51917">
+                    <div class="service-icon btn-square shadow " style="background-color:rgba(219,126,55,0.4)">
                     <img src="images/Shuhei_Takahashi.jpg" alt="consultant" class="rounded-circle" style="width:100%; height:100%; transform:translateX(-6px)"/>
                     </div>
                     <!-- <div class="service-icon btn-square" style="overflow:hidden; ">
@@ -69,7 +69,7 @@
                 </div>
                 <div class="col-12 wow fadeIn" data-wow-delay="0.5s">
                   <div style="min-height:300px" class="service-item d-flex flex-column justify-content-center text-center rounded">
-                    <div class="service-icon btn-square shadow" style="background-color:#B51917">
+                    <div class="service-icon btn-square shadow" style="background-color:rgba(219,126,55,0.4)">
                     <img src="images/hiroko_uemura.jpg" alt="consultant" class="rounded-circle" style="width:100%; height:100%; transform:translateX(-6px)"/>
                   </div>
                   <h3 class="mb-3">Hiroko Uemura</h3>
@@ -88,7 +88,7 @@
             <div class="row g-4">
               <div class="col-12 wow fadeIn" data-wow-delay="0.3s">
                 <div style="min-height:300px" class="service-item d-flex flex-column justify-content-center text-center rounded">
-                 <div class="service-icon btn-square shadow" style="background-color:#B51917">
+                 <div class="service-icon btn-square shadow" style="background-color:rgba(219,126,55,0.4)">
                     <img src="images/Mamie_Sato.png" alt="consultant" class="rounded-circle" style="width:100%; height:100%; transform:translateX(-6px)"/>
                   </div>
                   <h3 class="mb-3">Maimie Sato</h3>
@@ -103,7 +103,7 @@
               </div>
               <div class="col-12 wow fadeIn" data-wow-delay="0.7s">
                 <div style="min-height:300px" class="service-item d-flex flex-column justify-content-center text-center rounded">
-                  <div class="service-icon btn-square shadow" style="background-color:#B51917">
+                  <div class="service-icon btn-square shadow" style="background-color:rgba(219,126,55,0.4)">
                     <img src="images/ayumu_takado.jpg" alt="consultant" class="rounded-circle" style="width:100%; height:100%; transform:translateX(-6px);"/>
                   </div>
                   <h3 class="mb-3">Ayumu Takato</h3>

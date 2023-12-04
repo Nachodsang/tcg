@@ -132,7 +132,8 @@
   margin: 0 auto 20px auto;
   width: 90px;
   height: 90px;
-  color: var(--c-primary);
+  color: var(--c-secondary);
+  /* color: black; */
   background: var(--c-bg-secondary);
   transition: 0.5s;
 }

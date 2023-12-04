@@ -1,7 +1,7 @@
 <header class=" sticky-top">
   <nav class="navbar navbar-expand-md navbar-bg ">
     <div class="container">
-      <a class="navbar-brand" href="index.php"><img src="images/logo/logoTCG.png" class="logo"></a> 
+      <a class="navbar-brand" href="index.php"><img src="images/logo/logoTCF-colored.png" class="logo"></a> 
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
