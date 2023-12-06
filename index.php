@@ -77,7 +77,7 @@
                   <div class="service-icon btn-square">
                     <i class="fas fa-stream fa-3x"></i>
                   </div>
-                  <h3 class="mb-3">ALL Services</h3>
+                  <h3 class="mb-3">Other Services</h3>
                   <p>We provide consulting and advising services in various types of businesses and industries for foreign and prospective entities setting business in Thailand. </p>
                   <a class="btn px-3 mt-auto mx-auto" href="service.php">Read More</a>
                 </div>
@@ -124,7 +124,7 @@
             <div class="corner-sale"><span>TO SALE</span></div>
             <img class="img-fluid" src="images/blog-022.jpg" alt="">
             <div class="blog-overlay">
-             <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-tech.php"><span class="material-symbols-outlined">
+             <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-auto.php"><span class="material-symbols-outlined">
               visibility
             </span></a>
           </div>
@@ -133,7 +133,7 @@
          <div class="meta mb-2">
           <span>September 25, 2023</span>
         </div>
-        <a class="d-block" href="m&a-tech.php"><h3>Anonymous Company Seeks Merger for Automotive Innovation</h3></a>
+        <a class="d-block" href="m&a-auto.php"><h3>Anonymous Company Seeks Merger for Automotive Innovation</h3></a>
       </div>
     </div>
   </div>
@@ -143,7 +143,7 @@
         <div class="corner-buy"><span>TO BUY</span></div>
         <img class="img-fluid" src="images/blog-033.jpg" alt="">
         <div class="blog-overlay">
-         <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-tech.php"><span class="material-symbols-outlined">
+         <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-health-care.php"><span class="material-symbols-outlined">
           visibility
         </span></a>
       </div>
@@ -152,7 +152,7 @@
       <div class="meta mb-2">
         <span>September 25, 2023</span>
       </div>
-      <a class="d-block" href="m&a-tech.php"><h3>Anonymous Company Open to Strategic Merger Opportunities</h3></a>
+      <a class="d-block" href="m&a-health-care.php"><h3>Anonymous Company Open to Strategic Merger Opportunities</h3></a>
     </div>
   </div>
 </div>

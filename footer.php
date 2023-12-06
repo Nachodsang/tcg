@@ -9,7 +9,7 @@
 					<a href="index.php">Home</a>
 					<a href="about.php">About</a>
 					<a href="service.php">Service</a>
-					<a href="blog.php">Consultant</a>
+					<a href="consultant.php">Consultant</a>
 					<a href="m&a.php">M&A</a>
 					<a href="contact.php">Contact</a>
 				</p>

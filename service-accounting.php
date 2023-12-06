@@ -25,7 +25,7 @@
   <div class="container">
     <div class="row no-gutters slider-text align-items-end">
       <div class="col-md-9 ce-animate pb-5">
-        <p class="breadcrumbs mb-2"><span class="mr-2"><a href="index.html">Home <span class="icon material-symbols-outlined">
+        <p class="breadcrumbs mb-2"><span class="mr-2"><a href="index.php">Home <span class="icon material-symbols-outlined">
           arrow_forward_ios
         </span></a></span> <span>Acounting Services</span></p>
         <h1 class="mb-0 bread">Acounting Services</h1>
@@ -57,7 +57,7 @@
             <h3 class="mb-3">Tax Services</h3>
                             <p>Our local staff is specialized in Thailand-related tax matters. Thus, we can supply our clients in Thailand with tax structures that support their proposed transactions, thus allowing companies to reduce their tax exposure. </p>
 
-            <a class="btn px-3 mt-auto mx-auto" href="setup-business.php">Read More</a>
+            <a class="btn px-3 mt-auto mx-auto" href="service-tax.php">Read More</a>
           </div>
         </div>
 
@@ -69,7 +69,7 @@
             <h3 class="mb-3">Accounting Services</h3>
                              <p>With our constant support your business in Thailand will be guaranteed an accurate and timely provision of the records of all the transactions; additionally we will consult you on any aspect of the local accounting standards. </p>
 
-            <a class="btn px-3 mt-auto mx-auto" href="setup-business.php">Read More</a>
+            <a class="btn px-3 mt-auto mx-auto" href="service-accounting-service.php">Read More</a>
           </div>
         </div>
 
@@ -80,7 +80,7 @@
             </div>
             <h3 class="mb-3">Internal Audit</h3>
             <p>Associate staff have reliable professional and educational backgrounds, with high experience in internal auditing, specifically tailored to the authorized system.</p>
-            <a class="btn px-3 mt-auto mx-auto" href="setup-business.php">Read More</a>
+            <a class="btn px-3 mt-auto mx-auto" href="service-internal-audit.php">Read More</a>
           </div>
         </div>
 
@@ -92,7 +92,7 @@
           </div>
           <h3 class="mb-3">Financial Audit</h3>
           <p>Our auditors are professionally equipped to offer best audit services in Thailand that add value to your business by providing regular feedback on your operations.</p>
-          <a class="btn px-3 mt-auto mx-auto" href="setup-business.php">Read More</a>
+          <a class="btn px-3 mt-auto mx-auto" href="service-financial-audit.php">Read More</a>
         </div>
       </div>
 
@@ -104,7 +104,7 @@
           </div>
           <h3 class="mb-3">Payroll Services</h3>
           <p>Establishing a company payroll system in Thailand with the help of professionals from certified firms is an important decision, with high potential gains in return.</p>
-          <a class="btn px-3 mt-auto mx-auto" href="setup-business.php">Read More</a>
+          <a class="btn px-3 mt-auto mx-auto" href="service-payroll.php">Read More</a>
         </div>
       </div>
       

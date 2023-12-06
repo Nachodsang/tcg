@@ -1,7 +1,7 @@
  <section class="welcome-area">
         <div class="welcome-slides owl-carousel home-slider">
                <!-- Single Slide -->
-            <div class="single-welcome-slide bg-img bg-overlay" style="background-image: url(images/bangkok-city1.jpg);">
+            <div class="single-welcome-slide bg-img bg-overlay" style="background-image: url(images/bangkok-city.jpg);">
                 <div class="container h-100">
                     <div class="row h-100 align-items-center">
                         <!-- Welcome Text -->

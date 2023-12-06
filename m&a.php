@@ -24,7 +24,7 @@
   <div class="container">
     <div class="row no-gutters slider-text align-items-end">
       <div class="col-md-9 ce-animate pb-5">
-        <p class="breadcrumbs mb-2"><span class="mr-2"><a href="index.html">Home <span class="icon material-symbols-outlined">
+        <p class="breadcrumbs mb-2"><span class="mr-2"><a href="index.php">Home <span class="icon material-symbols-outlined">
           arrow_forward_ios
         </span></a></span> <span>Mergers & Acquisitions</span></p>
         <h1 class="mb-0 bread">Mergers & Acquisitions</h1>
@@ -39,7 +39,11 @@
     <div class="container heading-section">
       <div class="mx-auto wow fadeIn" data-wow-delay="0.1s">
        <span class="subheading mb-2">Businesses for Take-over</span>
-       <h2 class="mb-5">Want to aquire a business? Start from here.</h2>
+       <h2 class="mb-4">Searching for new opportunity? Start from here.</h2>
+       <p class="">Merger and Acquisition service in Thailand: Mergers and Acquisitions (M&A) refers to the process of one business purchasing another business and blending the two together. Merging and acquiring a business is also known as a “take over”.</p>
+       <p class="">Mergers and acquisitions and corporate restructuring represent an important aspect of the corporate finance world. Every day, specialized firms and investment bankers around the world arrange M&A transactions, which bring separate companies together to form larger ones. When they’re not creating big companies from smaller ones, corporate finance deals do the reverse and break up companies through spin-offs, carve-outs or tracking stocks.</p>
+       <p class="mb-5">At “Doing Business in thailand”, our presence in twenty three countries in the world and our extended network gives us an edge in the market. Our professional network, which comprises law firms, accounting firms, and chambers of commerce in each of these countries, gives us the necessary local hindsight required to perform M&A operations. The resources and knowledge that we have acquired through our experience and network place us at a top position to initiate, follow, and execute the required actions to achieve successful Mergers & Acquisitions. <a href="service-m&a.php">Click here</a> for more information.</p>
+
      </div>
      <div class="row g-5">
       <div class="col-md-6 col-lg-4 col-xl-4 wow fadeInUp" data-wow-delay="0.1s">
@@ -67,7 +71,7 @@
              <div class="corner-sale"><span>TO SALE</span></div>
             <img class="img-fluid" src="images/blog-022.jpg" alt="">
             <div class="blog-overlay">
-             <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-tech.php"><span class="material-symbols-outlined">
+             <a class="btn btn-square btn-primary rounded-circle m-1"  href="m&a-auto.php"><span class="material-symbols-outlined">
               visibility
             </span></a>
           </div>
@@ -76,7 +80,7 @@
          <div class="meta mb-2">
           <span>September 25, 2023</span>
         </div>
-        <a class="d-block" href="m&a-tech.php"><h3> Anonymous Company Seeks Merger for Automotive Innovation</h3></a>
+        <a class="d-block" href="m&a-auto.php"><h3> Anonymous Company Seeks Merger for Automotive Innovation</h3></a>
       </div>
     </div>
   </div>
@@ -86,7 +90,7 @@
          <div class="corner-buy"><span>TO BUY</span></div>
         <img class="img-fluid" src="images/blog-033.jpg" alt="">
         <div class="blog-overlay">
-         <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-tech.php"><span class="material-symbols-outlined">
+         <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-health-care.php"><span class="material-symbols-outlined">
           visibility
         </span></a>
       </div>
@@ -95,7 +99,7 @@
       <div class="meta mb-2">
         <span>September 25, 2023</span>
       </div>
-      <a class="d-block" href="m&a-tech.php"><h3>Anonymous Company Open to Strategic Merger Opportunities</h3></a>
+      <a class="d-block" href="m&a-health-care.php"><h3>Anonymous Company Open to Strategic Merger Opportunities</h3></a>
     </div>
   </div>
 </div>
@@ -105,7 +109,7 @@
        <div class="corner-buy"><span>TO BUY</span></div>
       <img class="img-fluid" src="images/blog-04.jpg" alt="">
       <div class="blog-overlay">
-        <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-tech.php"><span class="material-symbols-outlined">
+        <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-energy.php"><span class="material-symbols-outlined">
           visibility
         </span></a>
       </div>
@@ -114,7 +118,7 @@
       <div class="meta mb-2">
         <span>September 25, 2023</span>
       </div>
-      <a class="d-block" href="m&a-tech.php"><h3>Anonymous Company Explores M&A for Renewable Energy Solutions</h3></a>
+      <a class="d-block" href="m&a-energy.php"><h3>Anonymous Company Explores M&A for Renewable Energy Solutions</h3></a>
     </div>
   </div>
 </div>
@@ -124,7 +128,7 @@
        <div class="corner-buy"><span>TO BUY</span></div>
       <img class="img-fluid" src="images/blog-055.jpg" alt="">
       <div class="blog-overlay">
-       <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-tech.php""><span class="material-symbols-outlined">
+       <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-financial.php""><span class="material-symbols-outlined">
         visibility
       </span></a>
     </div>
@@ -133,7 +137,7 @@
    <div class="meta mb-2">
     <span>September 25, 2023</span>
   </div>
-  <a class="d-block" href="m&a-tech.php"><h3>Anonymous Company Paves the Way for M&A in Financial Services</h3></a>
+  <a class="d-block" href="m&a-financial.php"><h3>Anonymous Company Paves the Way for M&A in Financial Services</h3></a>
 </div>
 </div>
 </div>
@@ -143,7 +147,7 @@
        <div class="corner-sale"><span>TO SALE</span></div>
       <img class="img-fluid" src="images/blog-06.jpg" alt="">
       <div class="blog-overlay">
-       <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-tech.php"><span class="material-symbols-outlined">
+       <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-retail.php"><span class="material-symbols-outlined">
         visibility
       </span></a>
     </div>
@@ -152,7 +156,7 @@
     <div class="meta mb-2">
       <span>September 25, 2023</span>
     </div>
-    <a class="d-block" href="m&a-tech.php"><h3>Anonymous Company Invites Merger Discussions in Retail Innovation</h3></a>
+    <a class="d-block" href="m&a-retail.php"><h3>Anonymous Company Invites Merger Discussions in Retail Innovation</h3></a>
   </div>
 </div>
 </div>

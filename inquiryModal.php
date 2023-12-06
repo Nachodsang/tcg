@@ -143,7 +143,7 @@
 
     setTimeout(() => {
          modal.classList.remove('hidden')
-    }, 7000);
+    }, 15000);
        
    
      

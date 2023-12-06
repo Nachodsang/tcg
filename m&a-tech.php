@@ -25,10 +25,10 @@
   <div class="container">
     <div class="row no-gutters slider-text align-items-end">
       <div class="col-md-9 ce-animate pb-5">
-        <p class="breadcrumbs mb-2"><span class="mr-2"><a href="index.html">Home <span class="icon material-symbols-outlined">
+        <p class="breadcrumbs mb-2"><span class="mr-2"><a href="index.php">Home <span class="icon material-symbols-outlined">
           arrow_forward_ios
         </span></a></span> <span>Mergers & Acquisitions</span></p>
-        <h1 class="mb-0 bread">Mergers & Acquisitions</h1>
+        <h1 class="mb-0 bread">TechInnovate Invites Strategic Acquisition Partners</h1>
       </div>
     </div>
   </div>
@@ -77,7 +77,7 @@
         <h3 class="mb-2">The Opportunity:</h3>
         <p class="mb-4">More than an acquisition, partnering with TechInnovate is an investment in a future defined by progress and success. By integrating our capabilities, you're not just acquiring a company; you're gaining a strategic edge in the ever-evolving landscape of technology.</p>
         <h3 class="mb-2">Next Steps:</h3>
-        <p class="mb-4">For confidential discussions and to explore how the acquisition of TechInnovate aligns with your organization's strategic goals, please contact our Consultant or send us an inquiry, at <a href="contact.php">our contact page</a>.</p>
+        <p class="mb-4">For confidential discussions and to explore how the acquisition of TechInnovate aligns with your organization's strategic goals, please contact our Consultant or send us an <a href="contact.php">inquiry</a>.</p>
         
       </div>
     </div>
