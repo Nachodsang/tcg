@@ -19,6 +19,7 @@
 
   --c-bg-primary: rgba(219, 126, 55, 0.7);
   --c-bg-secondary: #f8f9fd;
+  --c-bg-fouth: rgba(55, 147, 219, 0.5);
   --c-bg-tertiary: #ffffff;
 
   --c-text-primary: #3793db;
@@ -55,7 +56,9 @@
 .c-bg-secondary {
   background-color: var(--c-bg-secondary);
 }
-
+.c-bg-fouth {
+  background-color: var(--c-bg-fouth);
+}
 body {
   margin: 0;
   font-family: "Noto Sans Thai", sans-serif;

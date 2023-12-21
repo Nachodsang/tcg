@@ -17,6 +17,7 @@
                     </div>
                 </div>
             </div>
+          
 
             <!-- Single Slide -->
             <div class="single-welcome-slide bg-img bg-overlay" style="background-image: url(images/cityscape-sathorn.jpg);">

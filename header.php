@@ -23,6 +23,9 @@
             <a class="nav-link" href="m&a.php">M&A</a>
           </li>
           <li class="nav-item">
+            <a class="nav-link" href="blogs.php">Blogs</a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link" href="contact.php">Contact</a>
           </li>
         </ul>
