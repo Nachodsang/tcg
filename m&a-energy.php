@@ -20,7 +20,7 @@
   <?php include("header.php");?>
   <!-- <?php include("breadcrumbs.php");?> -->
 
-<section class="breadcrumbs-wrap" style="background-image: url('images/bangkok-city1.jpg');" data-stellar-background-ratio="0.5">
+<section class="breadcrumbs-wrap" style="background-image: url('images/downtown-bangkok2.jpg');" data-stellar-background-ratio="0.5">
   <div class="overlay"></div>
   <div class="container">
     <div class="row no-gutters slider-text align-items-end">
@@ -28,7 +28,7 @@
         <p class="breadcrumbs mb-2"><span class="mr-2"><a href="index.php">Home <span class="icon material-symbols-outlined">
           arrow_forward_ios
         </span></a></span> <span>Mergers & Acquisitions</span></p>
-        <h1 class="mb-0 bread">Exploring M&A for Renewable Energy Solutions</h1>
+        <h1 class="mb-0 bread">Energit Co.,Ltd. Exploring M&A for Renewable Energy Solutions</h1>
       </div>
     </div>
   </div>
@@ -46,8 +46,14 @@
     <div class="split-box  center-block container-padding equalheight">
      <div class="heading-title padding">
        <div class="col-md-12 heading-section">
-        <span class="subheading mb-2">Seeking Investment in Renewable Energy Pioneers</span>
+        <span class="subheading mb-2">Energit Co.,Ltd. Seeking Investment in Renewable Energy Pioneers</span>
         <h2 class=""> Powering Tomorrow's Sustainable Future</h2>
+        <h2 class=""> Basic Information:</h2>
+        <p class="mb-4"><b>Opportunity:</b> To Buy</p>
+        <p class="mb-4"><b>Budget:</b> 150 million Baht</p>
+        <p class="mb-4"><b>Nationality:</b> Japanese</p>
+        <p class="mb-4"><b>No. of Employee:</b> 150</p>
+        <p class="mb-4"><b>Registered Capitol:</b> 20 million USD</p>
         <p class="mb-4">Anonymous Renewable Energy Solutions, a leader in renewable energy innovations, is actively seeking investment opportunities in visionary companies within the renewable energy sector. As we embark on this green journey, we invite forward-thinking organizations to explore a collaborative partnership that accelerates the transition to a sustainable future.</p>
         <h3 class="mb-2">Why Invest in Your Renewable Future with Anonymous Renewable Energy Solutions?</h3>
         <p class="mb-4">At the forefront of renewable energy solutions and investment, Anonymous Renewable Energy Solutions offers an exciting opportunity for companies seeking financial support and strategic collaboration:</p>

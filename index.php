@@ -95,15 +95,17 @@
   <div class="container-fluid c-bg-secondary  py-5">
     <div class="container pb-5 heading-section">
       <div class="mx-auto text-center wow fadeIn" data-wow-delay="0.1s">
-       <span class="subheading mb-2">Mergers and Acquisitions (M&A)</span>
-       <h2 class="mb-5">Looking for new opportunity? Start from here.</h2>
+       <span class="subheading mb-2">Looking for new opportunity? Start from here.</span>
+       <h2 class="mb-5">Mergers and Acquisitions (M&A)</h2>
+       <!-- <span class="subheading mb-2">Mergers and Acquisitions (M&A)</span>
+       <h2 class="mb-5">Looking for new opportunity? Start from here.</h2> -->
      </div>
      <div class="row g-5 gx-4">
       <div class="col-md-6 col-lg-4 col-xl-4 wow fadeInUp" data-wow-delay="0.1s">
         <div class="blog-item">
           <div class="position-relative " >
             <div class="corner-sale"><span>TO SALE</span></div>
-            <img class="img-fluid" src="images/blog-011.jpg" alt="" >
+            <img class="img-fluid" src="images/robotic-hand.jpg" alt="" >
             <div class="blog-overlay">
               <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-tech.php"><span class="material-symbols-outlined">
                 visibility
@@ -122,7 +124,7 @@
         <div class="blog-item">
           <div class="position-relative">
             <div class="corner-sale"><span>TO SALE</span></div>
-            <img class="img-fluid" src="images/blog-022.jpg" alt="">
+            <img class="img-fluid" src="images/car-assembly1.jpg" alt="">
             <div class="blog-overlay">
              <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-auto.php"><span class="material-symbols-outlined">
               visibility
@@ -141,7 +143,7 @@
     <div class="blog-item">
       <div class="position-relative">
         <div class="corner-buy"><span>TO BUY</span></div>
-        <img class="img-fluid" src="images/blog-033.jpg" alt="">
+        <img class="img-fluid" src="images/doctor1.jpg" alt="">
         <div class="blog-overlay">
          <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-health-care.php"><span class="material-symbols-outlined">
           visibility
@@ -167,11 +169,11 @@
 
 <section class="section">
    <div class="container-fluid   ">
-    <div class="row d-flex ">
+    <div class="row d-flex align-items-center ">
      <div class="col-md-6 p-0 d-flex wow fadeIn" data-wow-delay="0.1s">
       <div   class="image hover-effect img-container  ">
-       <div style="background-color:rgba(219,126,55,0.4); transform: translate(20px,10px);" class=" rounded-circle shadow">
-        <img style="transform: translate(-20px, -10px); " alt="" src="images/bangkok-river.jpg" class="img-fluid rounded-circle ">
+       <div style=" transform: translate(20px,10px);" class=" rounded-circle shadow c-bg-fouth">
+        <img style="transform: translate(-20px, -10px); " alt="" src="images/bangkok_illus1.jpg" class="img-fluid rounded-circle ">
        </div>
       </div>
     </div>
@@ -196,8 +198,8 @@
   <div class="container-fluid c-bg-secondary  py-5">
     <div class="container pb-5 heading-section">
       <div class="mx-auto text-center wow fadeIn" data-wow-delay="0.1s">
-       <span class="subheading mb-2">Blogs</span>
-       <h2 class="mb-5">Accounting Content</h2>
+       <span class="subheading mb-2">Accounting Content</span>
+       <h2 class="mb-5">Blogs</h2>
      </div>
      <div class="row g-5 gx-4">
       <div class="col-md-6 col-lg-4 col-xl-4 wow fadeInUp" data-wow-delay="0.1s">
@@ -215,7 +217,7 @@
             <div class="meta mb-2">
               <span>September 25, 2023</span>
             </div>
-            <a class="d-block" href="m&a-tech.php"><h3>TechInnovate Invites Strategic Acquisition Partners</h3></a>
+            <a class="d-block" href="m&a-tech.php"><h3>Decoding Debits and Credits: Navigating the Basics of Accounting</h3></a>
           </div>
         </div>
       </div>
@@ -234,7 +236,7 @@
          <div class="meta mb-2">
           <span>September 25, 2023</span>
         </div>
-        <a class="d-block" href="m&a-auto.php"><h3>Anonymous Company Seeks Merger for Automotive Innovation</h3></a>
+        <a class="d-block" href="m&a-auto.php"><h3>Beyond the Numbers: Unraveling the Stories Hidden in Financial Statements</h3></a>
       </div>
     </div>
   </div>
@@ -253,7 +255,7 @@
       <div class="meta mb-2">
         <span>September 25, 2023</span>
       </div>
-      <a class="d-block" href="m&a-health-care.php"><h3>Anonymous Company Open to Strategic Merger Opportunities</h3></a>
+      <a class="d-block" href="m&a-health-care.php"><h3>Tax Talk: Demystifying the Complexities of Income Tax Accounting</h3></a>
     </div>
   </div>
 
@@ -261,7 +263,7 @@
 </div>
 </div>
 <div class="text-center">
-  <a class="btn btn-primary" href="m&a.php">All Blogs</a>
+  <a class="btn btn-primary" href="blogs.php">All Blogs</a>
 </div>
 </div>
 </section>
@@ -270,8 +272,8 @@
   <div class="container-fluid  py-5">
     <div class="container pb-5 heading-section">
       <div class="mx-auto text-center wow fadeIn" data-wow-delay="0.1s">
-       <span class="subheading mb-2">Blogs</span>
-       <h2 class="mb-5">Consulting Content</h2>
+       <span class="subheading mb-2">Consulting Content</span>
+       <h2 class="mb-5">Blogs</h2>
      </div>
      <div class="row g-5 gx-4">
       <div class="col-md-6 col-lg-4 col-xl-4 wow fadeInUp" data-wow-delay="0.1s">
@@ -289,7 +291,7 @@
             <div class="meta mb-2">
               <span>September 25, 2023</span>
             </div>
-            <a class="d-block" href="m&a-tech.php"><h3>TechInnovate Invites Strategic Acquisition Partners</h3></a>
+            <a class="d-block" href="m&a-tech.php"><h3>Strategic Solutions Unleashed: Navigating the World of Business Consulting</h3></a>
           </div>
         </div>
       </div>
@@ -308,7 +310,7 @@
          <div class="meta mb-2">
           <span>September 25, 2023</span>
         </div>
-        <a class="d-block" href="m&a-auto.php"><h3>Anonymous Company Seeks Merger for Automotive Innovation</h3></a>
+        <a class="d-block" href="m&a-auto.php"><h3>Maximizing Growth: A Deep Dive into Effective Business Consultation Strategies</h3></a>
       </div>
     </div>
   </div>
@@ -327,7 +329,7 @@
       <div class="meta mb-2">
         <span>September 25, 2023</span>
       </div>
-      <a class="d-block" href="m&a-health-care.php"><h3>Anonymous Company Open to Strategic Merger Opportunities</h3></a>
+      <a class="d-block" href="m&a-health-care.php"><h3>The Consultant's Toolbox: Essential Frameworks for Business Success</h3></a>
     </div>
   </div>
 
@@ -335,7 +337,7 @@
 </div>
 </div>
 <div class="text-center">
-  <a class="btn btn-primary" href="m&a.php">All Blogs</a>
+  <a class="btn btn-primary" href="blogs.php">All Blogs</a>
 </div>
 </div>
 </section>

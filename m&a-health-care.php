@@ -20,7 +20,7 @@
   <?php include("header.php");?>
   <!-- <?php include("breadcrumbs.php");?> -->
 
-<section class="breadcrumbs-wrap" style="background-image: url('images/bangkok-city1.jpg');" data-stellar-background-ratio="0.5">
+<section class="breadcrumbs-wrap" style="background-image: url('images/downtown-bangkok2.jpg');" data-stellar-background-ratio="0.5">
   <div class="overlay"></div>
   <div class="container">
     <div class="row no-gutters slider-text align-items-end">
@@ -28,7 +28,7 @@
         <p class="breadcrumbs mb-2"><span class="mr-2"><a href="index.php">Home <span class="icon material-symbols-outlined">
           arrow_forward_ios
         </span></a></span> <span>Mergers & Acquisitions</span></p>
-        <h1 class="mb-0 bread">Seeking Investment in Pioneering Healthcare Solutions</h1>
+        <h1 class="mb-0 bread">ABC Health Inov Co., Ltd. Seeking Investment in Pioneering Healthcare Solutions</h1>
       </div>
     </div>
   </div>
@@ -46,7 +46,15 @@
     <div class="split-box  center-block container-padding equalheight">
      <div class="heading-title padding">
        <div class="col-md-12 heading-section">
-        <span class="subheading mb-2">Seeking Investment in Pioneering Healthcare Solutions</span>
+        <span class="subheading mb-2">ABC Health Inov Co., Ltd. Seeking Investment in Pioneering Healthcare Solutions</span>
+        
+        <h2 class=""> Basic Information:</h2>
+        <p class="mb-4"><b>Opportunity:</b> To Buy</p>
+        <p class="mb-4"><b>Budget:</b> 150 million Baht</p>
+        <p class="mb-4"><b>Nationality:</b> Japanese</p>
+        <p class="mb-4"><b>No. of Employee:</b> 150</p>
+        <p class="mb-4"><b>Registered Capitol:</b> 20 million USD</p>
+        
         <h2 class=""> Fueling Growth for Tomorrow's Healthcare Leaders</h2>
         <p class="mb-4">Anonymous Healthcare Innovations, a trailblazer in healthcare solutions, is on the lookout for investment opportunities in innovative healthcare companies. As we embark on this strategic journey, we invite visionary healthcare organizations to explore a mutually beneficial partnership that propels both entities to new heights.</p>
         <h3 class="mb-2">Why Invest in Your Healthcare Future with Anonymous Healthcare Innovations?</h3>

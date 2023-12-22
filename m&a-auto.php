@@ -20,7 +20,7 @@
   <?php include("header.php");?>
   <!-- <?php include("breadcrumbs.php");?> -->
 
-<section class="breadcrumbs-wrap" style="background-image: url('images/bangkok-city1.jpg');" data-stellar-background-ratio="0.5">
+<section class="breadcrumbs-wrap" style="background-image: url('images/downtown-bangkok2.jpg');" data-stellar-background-ratio="0.5">
   <div class="overlay"></div>
   <div class="container">
     <div class="row no-gutters slider-text align-items-end">
@@ -28,7 +28,7 @@
         <p class="breadcrumbs mb-2"><span class="mr-2"><a href="index.php">Home <span class="icon material-symbols-outlined">
           arrow_forward_ios
         </span></a></span> <span>Mergers & Acquisitions</span></p>
-        <h1 class="mb-0 bread">Anonymous Company Seeks Merger for Automotive Innovation</h1>
+        <h1 class="mb-0 bread">ABC Motor Part co.,Ltd. Seeks Merger for Automotive Innovation</h1>
       </div>
     </div>
   </div>
@@ -46,8 +46,14 @@
     <div class="split-box  center-block container-padding equalheight">
      <div class="heading-title padding">
        <div class="col-md-12 heading-section">
-        <span class="subheading mb-2">Anonymous Company Seeks Merger for Automotive Innovation</span>
-        <h2 class=""> Why Anonymous Company Description?</h2>
+        <span class="subheading mb-2">ABC Motor Part co.,Ltd. Seeks Merger for Automotive Innovation</span>
+        <h2 class=""> Basic Information:</h2>
+        <p class="mb-4"><b>Opportunity:</b> For Sale</p>
+        <p class="mb-4"><b>Expecting Price:</b> 400 million Baht</p>
+        <p class="mb-4"><b>Nationality:</b> Thai</p>
+        <p class="mb-4"><b>No. of Employee:</b> 500</p>
+        <p class="mb-4"><b>Registered Capitol:</b> 200 million Baht</p>
+        <h2 class=""> Why ABC Motor Part co.,Ltd.?</h2>
         <p class="mb-4">In the rapidly evolving landscape of automotive technology, Anonymous Company Description stands at the forefront of innovation. Today, we extend an open invitation to visionary organizations seeking a strategic merger that will propel them into the fast lane of automotive advancement.</p>
         <h3 class="mb-2">Why investing in us?</h3>
         <p class="mb-4">At the crossroads of cutting-edge automotive technology and groundbreaking solutions, we presents a compelling opportunity for merger partners:</p>

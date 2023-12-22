@@ -19,7 +19,7 @@
 
   <?php include("header.php");?>
   <!-- <?php include("breadcrumbs.php");?> -->
-    <section class="breadcrumbs-wrap" style="background-image: url('images/bangkok-city1.jpg');" data-stellar-background-ratio="0.5">
+    <section class="breadcrumbs-wrap" style="background-image: url('images/downtown-bangkok2.jpg');" data-stellar-background-ratio="0.5">
   <div class="overlay"></div>
   <div class="container">
     <div class="row no-gutters slider-text align-items-end">
@@ -61,7 +61,7 @@
             <div class="meta mb-2">
               <span>September 25, 2023</span>
             </div>
-            <a class="d-block" href="m&a-tech.php"><h3>TechInnovate Invites Strategic Acquisition Partners</h3></a>
+            <a class="d-block" href="m&a-tech.php"><h3>Decoding Debits and Credits: Navigating the Basics of Accounting</h3></a>
           </div>
         </div>
       </div>
@@ -80,7 +80,7 @@
          <div class="meta mb-2">
           <span>September 25, 2023</span>
         </div>
-        <a class="d-block" href="m&a-auto.php"><h3> Anonymous Company Seeks Merger for Automotive Innovation</h3></a>
+        <a class="d-block" href="m&a-auto.php"><h3> Beyond the Numbers: Unraveling the Stories Hidden in Financial Statements</h3></a>
       </div>
     </div>
   </div>
@@ -99,7 +99,7 @@
       <div class="meta mb-2">
         <span>September 25, 2023</span>
       </div>
-      <a class="d-block" href="m&a-health-care.php"><h3>Anonymous Company Open to Strategic Merger Opportunities</h3></a>
+      <a class="d-block" href="m&a-health-care.php"><h3>Tax Talk: Demystifying the Complexities of Income Tax Accounting</h3></a>
     </div>
   </div>
 </div>
@@ -118,7 +118,7 @@
       <div class="meta mb-2">
         <span>September 25, 2023</span>
       </div>
-      <a class="d-block" href="m&a-energy.php"><h3>Anonymous Company Explores M&A for Renewable Energy Solutions</h3></a>
+      <a class="d-block" href="m&a-energy.php"><h3>Balancing Act: Tips for Maintaining a Healthy Financial Ledger</h3></a>
     </div>
   </div>
 </div>
@@ -137,7 +137,7 @@
    <div class="meta mb-2">
     <span>September 25, 2023</span>
   </div>
-  <a class="d-block" href="m&a-financial.php"><h3>Anonymous Company Paves the Way for M&A in Financial Services</h3></a>
+  <a class="d-block" href="m&a-financial.php"><h3>From Ledger to Cloud: The Evolution of Accounting in the Digital Age</h3></a>
 </div>
 </div>
 </div>
@@ -156,7 +156,7 @@
     <div class="meta mb-2">
       <span>September 25, 2023</span>
     </div>
-    <a class="d-block" href="m&a-retail.php"><h3>Anonymous Company Invites Merger Discussions in Retail Innovation</h3></a>
+    <a class="d-block" href="m&a-retail.php"><h3>Audit Anxiety? A Practical Guide to Surviving and Thriving in Financial Audits</h3></a>
   </div>
 </div>
 </div>
@@ -184,7 +184,7 @@
 
     <div class="container heading-section">
       <div class="mx-auto wow fadeIn" data-wow-delay="0.1s">
-       <span class="subheading mb-2">Human Resource Related Content</span>
+       <span class="subheading mb-2">Consulting Content</span>
        <h2 class="mb-4">Searching for new opportunity? Start from here.</h2>
        <!-- <p class="">Merger and Acquisition service in Thailand: Mergers and Acquisitions (M&A) refers to the process of one business purchasing another business and blending the two together. Merging and acquiring a business is also known as a “take over”.</p>
        <p class="">Mergers and acquisitions and corporate restructuring represent an important aspect of the corporate finance world. Every day, specialized firms and investment bankers around the world arrange M&A transactions, which bring separate companies together to form larger ones. When they’re not creating big companies from smaller ones, corporate finance deals do the reverse and break up companies through spin-offs, carve-outs or tracking stocks.</p>
@@ -207,7 +207,7 @@
             <div class="meta mb-2">
               <span>September 25, 2023</span>
             </div>
-            <a class="d-block" href="m&a-tech.php"><h3>TechInnovate Invites Strategic Acquisition Partners</h3></a>
+            <a class="d-block" href="m&a-tech.php"><h3>Strategic Solutions Unleashed: Navigating the World of Business Consulting</h3></a>
           </div>
         </div>
       </div>
@@ -226,7 +226,7 @@
          <div class="meta mb-2">
           <span>September 25, 2023</span>
         </div>
-        <a class="d-block" href="m&a-auto.php"><h3> Anonymous Company Seeks Merger for Automotive Innovation</h3></a>
+        <a class="d-block" href="m&a-auto.php"><h3> Maximizing Growth: A Deep Dive into Effective Business Consultation Strategies</h3></a>
       </div>
     </div>
   </div>
@@ -245,7 +245,7 @@
       <div class="meta mb-2">
         <span>September 25, 2023</span>
       </div>
-      <a class="d-block" href="m&a-health-care.php"><h3>Anonymous Company Open to Strategic Merger Opportunities</h3></a>
+      <a class="d-block" href="m&a-health-care.php"><h3>The Consultant's Toolbox: Essential Frameworks for Business Success</h3></a>
     </div>
   </div>
 </div>
@@ -264,7 +264,7 @@
       <div class="meta mb-2">
         <span>September 25, 2023</span>
       </div>
-      <a class="d-block" href="m&a-energy.php"><h3>Anonymous Company Explores M&A for Renewable Energy Solutions</h3></a>
+      <a class="d-block" href="m&a-energy.php"><h3>Building Bridges to Success: The Role of Business Consultants in Transformative Change</h3></a>
     </div>
   </div>
 </div>
@@ -274,7 +274,7 @@
        <!-- <div class="corner-buy"><span>TO BUY</span></div> -->
       <img class="img-fluid" src="images/blog-055.jpg" alt="">
       <div class="blog-overlay">
-       <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-financial.php""><span class="material-symbols-outlined">
+       <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-financial.php"><span class="material-symbols-outlined">
         visibility
       </span></a>
     </div>
@@ -283,7 +283,7 @@
    <div class="meta mb-2">
     <span>September 25, 2023</span>
   </div>
-  <a class="d-block" href="m&a-financial.php"><h3>Anonymous Company Paves the Way for M&A in Financial Services</h3></a>
+  <a class="d-block" href="m&a-financial.php"><h3>Data-Driven Decisions: Leveraging Analytics in Business Consulting</h3></a>
 </div>
 </div>
 </div>
@@ -302,7 +302,7 @@
     <div class="meta mb-2">
       <span>September 25, 2023</span>
     </div>
-    <a class="d-block" href="m&a-retail.php"><h3>Anonymous Company Invites Merger Discussions in Retail Innovation</h3></a>
+    <a class="d-block" href="m&a-retail.php"><h3>The Art of Client Collaboration: A Guide to Effective Business Consulting Relationships</h3></a>
   </div>
 </div>
 </div>

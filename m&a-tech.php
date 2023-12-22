@@ -20,7 +20,7 @@
   <?php include("header.php");?>
   <!-- <?php include("breadcrumbs.php");?> -->
 
-<section class="breadcrumbs-wrap" style="background-image: url('images/bangkok-city1.jpg');" data-stellar-background-ratio="0.5">
+<section class="breadcrumbs-wrap" style="background-image: url('images/downtown-bangkok2.jpg');" data-stellar-background-ratio="0.5">
   <div class="overlay"></div>
   <div class="container">
     <div class="row no-gutters slider-text align-items-end">
@@ -28,7 +28,7 @@
         <p class="breadcrumbs mb-2"><span class="mr-2"><a href="index.php">Home <span class="icon material-symbols-outlined">
           arrow_forward_ios
         </span></a></span> <span>Mergers & Acquisitions</span></p>
-        <h1 class="mb-0 bread">TechInnovate Invites Strategic Acquisition Partners</h1>
+        <h1 class="mb-0 bread">TechInnovate Co.,Ltd. Invites Strategic Acquisition Partners</h1>
       </div>
     </div>
   </div>
@@ -45,11 +45,18 @@
    <div class="col-md-6 pr-md-5 py-md-5 order-first order-md-last section wow fadeIn" data-wow-delay="0.5s">
     <div class="split-box  center-block container-padding equalheight">
      <div class="heading-title padding">
-       <div class="col-md-12 heading-section">
-        <span class="subheading mb-2">Transformative Opportunities Await in the World of Tech Innovation</span>
-        <h2 class=""> Seize the Future: TechInnovate Invites Strategic Acquisition Partners</h2>
+Transformative Opportunities Await in the World of Tech Innovation       <div class="col-md-12 heading-section">
+        <span class="subheading mb-2"></span>
+        
+        <h2 class=""> Seize the Future: TechInnovate Co.,Ltd. Invites Strategic Acquisition Partners</h2>
         <p class="mb-4">In the dynamic realm of technology and innovation, TechInnovate emerges as a beacon of untapped potential. Today, we extend an exclusive invitation to visionary organizations seeking a strategic acquisition that propels them into the forefront of the digital age.</p>
-        <h3 class="mb-2">Why TechInnovate?</h3>
+        <h2 class=""> Basic Information:</h2>
+        <p class="mb-4"><b>Opportunity:</b> For Sale</p>
+        <p class="mb-4"><b>Expecting Price:</b> 300 million Baht</p>
+        <p class="mb-4"><b>Nationality:</b> Thai</p>
+        <p class="mb-4"><b>No. of Employee:</b> 50</p>
+        <p class="mb-4"><b>Registered Capitol:</b> 100 million Baht</p>       
+        <h3 class="mb-2">Why TechInnovate Co.,Ltd.?</h3>
         <p class="mb-4">At the crossroads of cutting-edge technology and boundless creativity, TechInnovate presents a compelling opportunity for acquisition partners:</p>
         <ol>
             <li>Specialized Expertise:

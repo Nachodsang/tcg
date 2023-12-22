@@ -19,7 +19,7 @@
 
   <?php include("header.php");?>
   <!-- <?php include("breadcrumbs.php");?> -->
-    <section class="breadcrumbs-wrap" style="background-image: url('images/bangkok-city1.jpg');" data-stellar-background-ratio="0.5">
+    <section class="breadcrumbs-wrap" style="background-image: url('images/downtown-bangkok2.jpg');" data-stellar-background-ratio="0.5">
   <div class="overlay"></div>
   <div class="container">
     <div class="row no-gutters slider-text align-items-end">
@@ -50,7 +50,7 @@
         <div class="blog-item">
           <div class="position-relative">
              <div class="corner-sale"><span>TO SALE</span></div>
-            <img class="img-fluid" src="images/blog-011.jpg" alt="">
+            <img class="img-fluid" src="images/robotic-hand.jpg" alt="">
             <div class="blog-overlay">
               <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-tech.php"><span class="material-symbols-outlined">
                 visibility
@@ -69,7 +69,7 @@
         <div class="blog-item">
           <div class="position-relative">
              <div class="corner-sale"><span>TO SALE</span></div>
-            <img class="img-fluid" src="images/blog-022.jpg" alt="">
+            <img class="img-fluid" src="images/car-assembly1.jpg" alt="">
             <div class="blog-overlay">
              <a class="btn btn-square btn-primary rounded-circle m-1"  href="m&a-auto.php"><span class="material-symbols-outlined">
               visibility
@@ -88,7 +88,7 @@
     <div class="blog-item">
       <div class="position-relative">
          <div class="corner-buy"><span>TO BUY</span></div>
-        <img class="img-fluid" src="images/blog-033.jpg" alt="">
+        <img class="img-fluid" src="images/doctor1.jpg" alt="">
         <div class="blog-overlay">
          <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-health-care.php"><span class="material-symbols-outlined">
           visibility
@@ -107,7 +107,7 @@
   <div class="blog-item">
     <div class="position-relative">
        <div class="corner-buy"><span>TO BUY</span></div>
-      <img class="img-fluid" src="images/blog-04.jpg" alt="">
+      <img class="img-fluid" src="images/clean-en.jpg" alt="">
       <div class="blog-overlay">
         <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-energy.php"><span class="material-symbols-outlined">
           visibility
@@ -126,7 +126,7 @@
   <div class="blog-item">
     <div class="position-relative">
        <div class="corner-buy"><span>TO BUY</span></div>
-      <img class="img-fluid" src="images/blog-055.jpg" alt="">
+      <img class="img-fluid" src="images/coins.jpg" alt="">
       <div class="blog-overlay">
        <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-financial.php""><span class="material-symbols-outlined">
         visibility
@@ -145,7 +145,7 @@
   <div class="blog-item">
     <div class="position-relative">
        <div class="corner-sale"><span>TO SALE</span></div>
-      <img class="img-fluid" src="images/blog-06.jpg" alt="">
+      <img class="img-fluid" src="images/retail1.jpg" alt="">
       <div class="blog-overlay">
        <a class="btn btn-square btn-primary rounded-circle m-1" href="m&a-retail.php"><span class="material-symbols-outlined">
         visibility

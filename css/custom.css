@@ -517,9 +517,9 @@
   position: relative;
 }
 
-.breadcrumbs-wrap .overlay {
+/* .breadcrumbs-wrap .overlay {
   opacity: 0.5;
-}
+} */
 
 .breadcrumbs-wrap .overlay {
   position: absolute;
@@ -528,7 +528,7 @@
   right: 0;
   bottom: 0;
   content: "";
-  opacity: 0.1;
+  opacity: 0;
   background: #000000;
 }
 

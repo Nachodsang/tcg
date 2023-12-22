@@ -3,7 +3,7 @@
                <!-- Single Slide -->
             <div class="single-welcome-slide bg-img bg-overlay" style="background-image: url(images/downtown-bangkok.jpg);">
                 <div class="container h-100 position-relative">
-                    <div class=" pt-4 p-1  position-absolute rounded-bottom-3  top-0 end-0 c-bg-fouth ">
+                    <div class=" pt-4 p-1  position-absolute rounded-bottom-3  top-0 end-0 c-bg-fouth shadow ">
                         <img src="images/logo/logoTCF.png" class="w-100"/> 
                     </div>
                     <div class="row h-100 align-items-center">
@@ -25,7 +25,7 @@
             <!-- Single Slide -->
             <div class="single-welcome-slide bg-img bg-overlay" style="background-image: url(images/morning_temple.png);">
                 <div class="container h-100 position-relative">
-                    <div class=" pt-4 p-1 position-absolute rounded-bottom-3  top-0 end-0 c-bg-fouth">
+                    <div class=" pt-4 p-1 position-absolute rounded-bottom-3  top-0 end-0 c-bg-fouth shadow">
                         <img src="images/logo/logoTCF.png" class="w-100"/> 
                     </div>
                     <div class="row h-100 align-items-center">
@@ -46,7 +46,7 @@
             <!-- Single Slide -->
             <div class="single-welcome-slide bg-img bg-overlay" style="background-image: url(images/bts.png);">
                 <div class="container h-100 position-relative">
-                    <div class=" pt-4 p-1  position-absolute rounded-bottom-3  top-0 end-0 c-bg-fouth">
+                    <div class=" pt-4 p-1  position-absolute rounded-bottom-3  top-0 end-0 c-bg-fouth shadow">
                         <img src="images/logo/logoTCF.png" class="w-100"/> 
                     </div>
                      <div class="row h-100 align-items-center"><!--right -->
