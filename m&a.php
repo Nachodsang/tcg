@@ -8,6 +8,7 @@
   <link rel="canonical" href="https://www.at-once.info">
   <link href="css/bootstrap.css" rel="stylesheet">
   <link href="css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="fontawesome/css/all.min.css">
 </head>
 <body>
 
@@ -44,7 +45,43 @@
        <p class="">Mergers and acquisitions and corporate restructuring represent an important aspect of the corporate finance world. Every day, specialized firms and investment bankers around the world arrange M&A transactions, which bring separate companies together to form larger ones. When they’re not creating big companies from smaller ones, corporate finance deals do the reverse and break up companies through spin-offs, carve-outs or tracking stocks.</p>
        <p class="mb-5">At “Doing Business in thailand”, our presence in twenty three countries in the world and our extended network gives us an edge in the market. Our professional network, which comprises law firms, accounting firms, and chambers of commerce in each of these countries, gives us the necessary local hindsight required to perform M&A operations. The resources and knowledge that we have acquired through our experience and network place us at a top position to initiate, follow, and execute the required actions to achieve successful Mergers & Acquisitions. <a href="service-m&a.php" style="color:#3793DB">Click here</a> for more information.</p>
 
-     </div>
+      </div>
+      <!-- filter -->
+      <div class="px-4">
+
+        <div class="w-75 mx-auto mb-4 p-4 rounded-3 bg-white gap-2 d-flex flex-column">
+          <div class="d-flex gap-1 align-items-center mb-2  c-primary">
+            <i class="fas fa-funnel-dollar fa-2x"></i>
+            <h3 style="margin-bottom:0;">Filter</h3>
+          </div>
+          <div class="d-flex w-100 gap-1">
+            <div class="w-25 rounded-2 c-bg-secondary">Industry</div>
+            <div class="w-75 rounded-2 c-bg-secondary">Search</div>
+          </div>
+          <div class="d-flex  w-100 gap-1">
+            <div class="w-50 rounded-2 c-bg-secondary">Product</div>
+            <div class="w-50 rounded-2 c-bg-secondary">From 0</div>
+            <div class="w-50 rounded-2 c-bg-secondary">To > 10 million</div>
+          </div>
+          <div class="d-flex  w-100 gap-1 justify-content-end gap-2">
+            <div class=" rounded-2 c-bg-primary btn btn-primary d-flex align-items-center">
+              <i class="fas fa-sync-alt fa-x"></i>
+              <span>
+                Clear
+              </span>
+            </div>
+            <div class="w-25 rounded-2 c-bg-primary btn btn-secondary d-flex align-items-center justify-content-center">
+              <i class="fas fa-search-dollar fa-lg"></i>  
+              <span>
+                Search
+              </span>
+            </div>
+            
+          </div>
+          
+        </div>
+      </div>
+
      <div class="row g-5">
       <div class="col-md-6 col-lg-4 col-xl-4 wow fadeInUp" data-wow-delay="0.1s">
         <div class="blog-item">

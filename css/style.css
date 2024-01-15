@@ -112,6 +112,17 @@ a {
   letter-spacing: 3px;
 }
 
+.btn-secondary {
+  background: var(--c-secondary);
+  border: 1px solid var(--c-secondary);
+  color: var(--c-white);
+}
+
+.btn.btn-secondary:hover {
+  border: 1px solid var(--c-secondary);
+  background: transparent;
+  color: var(--c-secondary);
+}
 .btn-primary {
   background: var(--c-primary);
   border: 1px solid var(--c-primary);
@@ -473,6 +484,13 @@ footer .copyright {
 
 .goog-te-gadget-simple {
   display: flex;
+}
+
+@media (min-width: 768px) {
+  /* CSS rules for screens larger than 768px go here */
+  .padding-top-10 {
+    padding-top: 10rem;
+  }
 }
 
 @-webkit-keyframes load7 {
